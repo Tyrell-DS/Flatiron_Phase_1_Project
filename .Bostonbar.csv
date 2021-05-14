@@ -1,0 +1,600 @@
+0,4th Down Sports Bar,"['750 Grand St', 'Brooklyn, NY 11211']",WighGWv8nmo5N6f0FZETHw,4.5,48,"{'latitude': 40.7115402, 'longitude': -73.9432755}",$
+1,Standings,"['43 E 7th St', 'New York, NY 10003']",VCoSWqRuQVvyKS32sZqgRw,4.0,147,"{'latitude': 40.72832, 'longitude': -73.98855}",$$
+2,Tailgate Outdoor Sports Bar,"['86 N 11th St', 'Brooklyn, NY 11249']",IXujdH6UqFrYHUyzMqFrVg,4.0,13,"{'latitude': 40.72139596280044, 'longitude': -73.95763005384187}",
+3,The Three Monkeys,"['236 W 54th St', 'New York, NY 10019']",IBgjj5VBu5JJvKgo9EzKrg,4.0,1193,"{'latitude': 40.764164, 'longitude': -73.98306}",$$
+4,The Grayson,"['16 1st Ave', 'New York, NY 10009']",RAejT6MPqqpprhgiCDdyJA,3.5,232,"{'latitude': 40.72338, 'longitude': -73.98797}",$$
+5,Bar-Coastal NYC,"['1495 1st Ave', 'New York, NY 10075']",UjdqrYedKDokSPE2dDwFbA,4.0,297,"{'latitude': 40.77189, 'longitude': -73.95342}",$$
+6,The Grafton,"['126 1st Ave', 'New York, NY 10009']",ZCfqAtpASbibf_YaU1rIpw,4.0,78,"{'latitude': 40.7271881103516, 'longitude': -73.9851989746094}",$$
+7,Union Grounds,"['270 Smith St', 'New York, NY 11231']",-mttoQ5KTGlOJqbuYE3o9Q,4.0,69,"{'latitude': 40.6826515, 'longitude': -73.9933624}",$$
+8,Triona's On Third,"['192 3rd Ave', 'New York, NY 10003']",e4FbDBoHWCOvDoHkrXzPsA,4.0,97,"{'latitude': 40.7355003356934, 'longitude': -73.9857711791992}",$$
+9,Croxley's Ale House - Brooklyn,"['63 Grand St', 'Brooklyn, NY 11249']",lFPumaCSb159q18nKXnEzg,3.5,316,"{'latitude': 40.716096, 'longitude': -73.964839}",$$
+10,Smithfield Hall,"['138 W 25th St', 'New York, NY 10001']",GlSWzWVmQsKLGxySYSGRbQ,4.0,478,"{'latitude': 40.7447532620452, 'longitude': -73.9934939850447}",$$
+11,Triona's,"['237 Sullivan St', 'New York, NY 10012']",_xRGTDjG-nYMgCCNcmCoNQ,4.0,112,"{'latitude': 40.72989, 'longitude': -73.99938}",$
+12,Tap Haus 33,"['14 E 33rd St', 'New York, NY 10016']",lNP1km2kaEtlsBw2VNHHhQ,4.5,215,"{'latitude': 40.747247, 'longitude': -73.9843}",$$
+13,Fulton Hall,"['250 Ashland Pl', 'Brooklyn, NY 11217']",mfeXowi4L3Uk__BJYYiuoQ,4.0,58,"{'latitude': 40.6876387450716, 'longitude': -73.9783539913113}",$$
+14,Kent Ale House,"['51 Kent Ave', 'Brooklyn, NY 11249']",SBLoGGk936tFHg0gYSZ-ow,4.0,179,"{'latitude': 40.7223281860352, 'longitude': -73.9592514038086}",$$
+15,Blondies Sports,"['212 W 79th St', 'New York, NY 10024']",zzVeJukpmXchLTQQhxzQjQ,3.5,461,"{'latitude': 40.78321, 'longitude': -73.97919}",$$
+16,Bleachers Sports Bar & Grill,"['240 Flatbush Ave', 'Park Slope, NY 11217']",iLkU9Wo0Zte4DechmGnMqg,3.0,79,"{'latitude': 40.6802563732559, 'longitude': -73.9749691478851}",$$
+17,The Hairy Lemon Pub,"['28 Avenue B', 'New York, NY 10009']",s-n0KW8iqiq-C96tpxm2rA,4.5,72,"{'latitude': 40.72249, 'longitude': -73.98338}",$
+18,The Soccer Republic,"['251 W 51st St', 'New York, NY 10019']",5cWiDSoiaOUjBLSTKxRkNg,4.0,52,"{'latitude': 40.7628417, 'longitude': -73.9850351}",$$
+19,Clara's,"['53 Wilson Ave', 'Brooklyn, NY 11237']",hcxdYdqMiuFVPYza3DEkdQ,4.5,115,"{'latitude': 40.7025937642269, 'longitude': -73.9287076595245}",$$
+20,Legends New York City,"['6 W 33rd St', 'New York, NY 10001']",wKxir9c-sdzfWsMYxrRAJA,3.5,415,"{'latitude': 40.7479973137379, 'longitude': -73.9857148379087}",$$
+21,Roebling Sporting Club,"['225 N 8th St', 'Brooklyn, NY 11211']",NoKrcCTeoLOlN4_-UMrjGA,3.5,69,"{'latitude': 40.71698, 'longitude': -73.95466}",$$
+22,The Ainsworth,"['122 W 26th St', 'New York, NY 10001']",hgwnIf9c9_IvY40YhdqQfw,3.0,635,"{'latitude': 40.745182, 'longitude': -73.992583}",$$
+23,Blue Haven,"['108 W Houston St', 'New York, NY 10012']",-2smQGGU3npnPljI8OUwfA,3.5,193,"{'latitude': 40.727572, 'longitude': -74.000566}",$$
+24,O'Hara's Restaurant and Pub,"['120 Cedar St', 'Ste 4', 'New York, NY 10006']",ZnhRUBos9FGQZrzbcPn6Vg,4.0,467,"{'latitude': 40.7093473589949, 'longitude': -74.0122557367896}",$$
+25,Greenwich Sports Tavern Village,"['1 7th Ave S', 'New York, NY 10014']",3kqGCsIwLwhzWvgyFK6yow,4.0,31,"{'latitude': 40.729714, 'longitude': -74.004792}",
+26,Gramercy Ale House,"['272 3rd Ave', 'New York, NY 10010']",bWhupxuUj3LTu0aK3CuOtA,3.5,89,"{'latitude': 40.73797, 'longitude': -73.98413}",$$
+27,Lion's Head Tavern,"['995 Amsterdam Ave', 'New York, NY 10025']",Y_8ZwQYDznZX1-rs_wm6RQ,4.0,223,"{'latitude': 40.80214, 'longitude': -73.96406}",$$
+28,Barriles Restaurant and Sports Bar,"['83-14 37th Ave', 'Jackson Heights, NY 11372']",okShSwX3iNeQ4os3751yOg,3.5,94,"{'latitude': 40.7496763, 'longitude': -73.8828024}",$$
+29,Blue Haven East,"['493 3rd Ave', 'New York, NY 10016']",ECbvfMyJMd2SpNRb_01I5A,4.5,44,"{'latitude': 40.74522, 'longitude': -73.97827}",$$
+30,Dark Horse,"['17 Murray St', 'New York, NY 10007']",bJdS98j_HTfyg-xUlu6V5A,4.0,396,"{'latitude': 40.713718, 'longitude': -74.008036}",$$
+31,J.Bespoke,"['121 E 27th St', 'New York, NY 10016']",y8oTTcZqb7RPA0Zu8wTyqA,4.5,26,"{'latitude': 40.742498, 'longitude': -73.983481}",
+32,Finn’s Corner,"['660 Washington Ave', 'Brooklyn, NY 11238']",ZhwXNucu2sV9XfILoXbNjw,4.0,37,"{'latitude': 40.6784, 'longitude': -73.96404}",$$
+33,Windy City Ale House,"['7915 3rd Ave', 'Brooklyn, NY 11209']",az4tZj2pFMBCy-X84cQXxA,4.0,124,"{'latitude': 40.628039, 'longitude': -74.028829}",$$
+34,Harlem Public,"['3612 Broadway', 'New York, NY 10031']",zWem2SAbFc7lIYR2y9DE0g,4.0,1006,"{'latitude': 40.828717774457, 'longitude': -73.9484412254424}",$$
+35,The Commissioner,"['247 5th Ave', 'Brooklyn, NY 11215']",xHgMfdyLA5SPQz4c3ItTgg,5.0,141,"{'latitude': 40.67487, 'longitude': -73.98137}",$
+36,Game Day Sports Bar,"['5757 Broadway', 'Bronx, NY 10463']",H4rjZ8ya-NYuxAnPflzo1g,5.0,25,"{'latitude': 40.88350833, 'longitude': -73.90170833}",
+37,Black Walnut Public House,"['140 Schermerhorn St', 'Brooklyn, NY 11201']",d0Up0vNOqr1eL3EtjHboMA,4.0,39,"{'latitude': 40.6896982, 'longitude': -73.9881975}",$$$
+38,All Stars Sports Bar & Grill,"['327 W 57th St', 'New York, NY 10019']",EnGZNQRml1HbcfT1eCfJBw,4.0,57,"{'latitude': 40.76741, 'longitude': -73.98408}",$$
+39,District Tap House,"['246 W 38th St', 'New York, NY 10018']",Z65cd3Z7JvwK8TnSVg-cfA,4.0,818,"{'latitude': 40.75409, 'longitude': -73.99039}",$$
+40,IV Purpose,"['1489 Fulton St', 'Brooklyn, NY 11216']",iEfftZZq-jiR4UV2_fnFVA,4.5,19,"{'latitude': 40.68012, 'longitude': -73.94176}",
+41,East End Bar & Grill,"['1664 1st Ave', 'Between 86th & 87th St', 'New York, NY 10028']",kRuWQS_e9G87fCqelpMEFA,4.0,181,"{'latitude': 40.777278, 'longitude': -73.94873}",$$
+42,The Bowery Beer Garden,"['93 Bowery', 'New York, NY 10002']",7yJ3fOQp3oj2xuDaUGD3_A,3.0,86,"{'latitude': 40.7171, 'longitude': -73.99533}",$$
+43,Whiskey Tavern,"['79 Baxter St', 'New York, NY 10013']",c3Ww3pgeHjBi3ctkeUWrjQ,4.5,781,"{'latitude': 40.71646, 'longitude': -73.99969}",$$
+44,Charlies Sports Bar,"['4408 60th St', 'Woodside, NY 11377']",yy42y6h3iLExmrkY7ssNqg,4.0,13,"{'latitude': 40.741873, 'longitude': -73.904721}",$
+45,Tap House,"['72-07 Austin St', 'Forest Hills, NY 11375']",dRKgo1PtygjL5ln_AUYhWg,3.5,199,"{'latitude': 40.7192292809486, 'longitude': -73.8422159850597}",$$
+46,McMahon's Public House,"['39 5th Ave', 'Brooklyn, NY 11217']",HWTH6QwatW6lcYaIWgw4Kg,4.0,191,"{'latitude': 40.6816498, 'longitude': -73.9765623}",$$
+47,Five Iron Golf,"['22 Stone St', 'New York, NY 10004']",b_21eSHtluULgWd8r3EfUA,5.0,14,"{'latitude': 40.7041736028743, 'longitude': -74.0105148450791}",
+48,Eastpoint,"['25 Ave B', 'New York, NY 10009']",r2eXF4w9e8_V3RQTTPTfKw,4.0,67,"{'latitude': 40.72228, 'longitude': -73.98311}",$$
+49,Wogies Bar & Grill,"['39 Greenwich Ave', 'New York, NY 10014']",L9GlASdPU4rZEc3FWCsE8Q,4.0,327,"{'latitude': 40.73539, 'longitude': -74.00057}",$$
+0,Honore Club,"['173 Irving Ave', 'Brooklyn, NY 11237']",BPbpVx_U-J5vo3joig7oBg,4.5,12,"{'latitude': 40.70223, 'longitude': -73.9198}",
+1,Play Sport Club,"['52 Walker St', 'New York, NY 10013']",eF9VfTWXm8cnVFjXYTaqgA,4.0,4,"{'latitude': 40.71909, 'longitude': -74.00332}",
+2,Henry Street Ale House,"['62 Henry St', 'Brooklyn, NY 11201']",lqkqsHe_2KN35LE5JIaYNg,3.5,230,"{'latitude': 40.69909448771299, 'longitude': -73.9924659}",$$
+3,The Brew Inn,"['924 Manhattan Ave', 'Brooklyn, NY 11222']",w5B0FmQoEOoeURoFuguh0w,4.0,159,"{'latitude': 40.731044, 'longitude': -73.954101}",$$
+4,Ralphs Sports Bar,"['1571 Richmond Rd', 'Staten Island, NY 10304']",fK05t_-3PihU5Si_8_hR5g,5.0,16,"{'latitude': 40.591242, 'longitude': -74.101235}",
+5,Aris Sport Bar Restaurant,"['4514 3rd Ave', 'Brooklyn, NY 11220']",kKjl8tBSRcehQOPA1RVUlg,3.0,2,"{'latitude': 40.65034, 'longitude': -74.01225}",
+6,Banter,"['132 Havemeyer St', 'Brooklyn, NY 11211']",Ro-EW-LYUOXlnkb9wUmX8A,4.5,101,"{'latitude': 40.712184, 'longitude': -73.95743}",$$
+7,The Village Tavern,"['46 Bedford St', 'New York, NY 10014']",jC-8mWq2-vVf-Km_6IaEtQ,3.0,120,"{'latitude': 40.730583, 'longitude': -74.004173}",$$
+8,Fulton Ale House,"['1446 Fulton St', 'Brooklyn, NY 11216']",TOY_If66a2n0zLNNrH-wag,4.0,44,"{'latitude': 40.6798823, 'longitude': -73.942972}",$$
+9,Hair of the Dog,"['168 Orchard St', 'New York, NY 10002']",gdcxZY7HEAb8aOMDsPBKfA,3.0,408,"{'latitude': 40.72132967142, 'longitude': -73.9887227379339}",$$
+10,The Ainsworth - Midtown,"['45 E 33rd St', 'New York, NY 10016']",P07uKcnA9gkk7B6exFtuYg,3.0,254,"{'latitude': 40.7468295, 'longitude': -73.98246}",$$
+11,Shorty's,"['62 Pearl St', 'New York, NY 10004']",Ai9zcAveCf-eRPup4HIXhw,4.0,277,"{'latitude': 40.7034454, 'longitude': -74.0110779}",$$
+12,Greenwich Street Tavern,"['399 Greenwich St', 'New York, NY 10013']",tS57VDB7MA81rzOsQkTrmw,4.0,124,"{'latitude': 40.720839, 'longitude': -74.0096888}",$$
+13,Stout NYC FiDi,"['90 John St', 'New York, NY 10038']",CM0RFd0kqkT-LdC3gXGk2Q,3.5,241,"{'latitude': 40.7079086, 'longitude': -74.0064774}",$$
+14,The Ainsworth - East Village,"['64 3rd Ave', 'New York, NY 10003']",7qAHwsaiiK2bh404pugjNw,3.0,106,"{'latitude': 40.73138, 'longitude': -73.98902}",$$
+15,Hudson Hound,"['575 Hudson St', 'New York, NY 10014']",H3AnaDvXg_tXticwUGL7PA,4.0,110,"{'latitude': 40.73615, 'longitude': -74.00609}",$$
+16,At the Wallace,"['3612 Broadway', 'New York, NY 10031']",hhNhU-Lili1DimLWkdmERA,4.5,204,"{'latitude': 40.8286495970992, 'longitude': -73.9485832208136}",$$
+17,The Wing Bar,"['275 Smith St', 'Brooklyn, NY 11231']",UOhnGQBzf2ISTHM4Bj5Gvw,3.5,349,"{'latitude': 40.6825199, 'longitude': -73.99318}",$$
+18,Keg & Lantern Brewing Company,"['97 Nassau Ave', 'Brooklyn, NY 11222']",8vwANffgp9s9RDCSn3mD5w,4.0,266,"{'latitude': 40.724054, 'longitude': -73.950341}",$$
+19,Blue Smoke,"['255 Vesey St', 'New York, NY 10282']",tA1QO_GParSsaOaO8UoBvQ,3.5,649,"{'latitude': 40.714486, 'longitude': -74.0152768}",$$
+20,End Zone Sports Bar & Lounge,"['28 Dooley St', 'Brooklyn, NY 11235']",fiAlkC97QY9bUNOghKT9lQ,5.0,6,"{'latitude': 40.58437, 'longitude': -73.9453}",
+21,Kelly's Sports Bar,"['12 Ave A', 'New York, NY 10009']",VpkM5wo4hlasE4wgY0rGrQ,3.0,113,"{'latitude': 40.722623616457, 'longitude': -73.9859582483768}",$
+22,The Junction,"['329 Lexington Ave', 'New York, NY 10016']",C74MT6T_Ew0fCZjuWU96jQ,4.0,165,"{'latitude': 40.74928, 'longitude': -73.97731}",$$
+23,Emblem,"['187 Graham Ave', 'Brooklyn, NY 11206']",_iGGytMIRiutzVDqx_Qing,4.5,97,"{'latitude': 40.70844, 'longitude': -73.94355}",$$
+24,Wheeler's Restaurant,"['1707 Sheepshead Bay Rd', 'Brooklyn, NY 11235']",ugzHlkx2ILYzs72_8hxV8w,4.0,189,"{'latitude': 40.5857567, 'longitude': -73.95157}",$$
+25,Dram Shop,"['339 9th St', 'Brooklyn, NY 11215']",YBEjrVXSy8CDph7EBV5WJQ,4.0,566,"{'latitude': 40.668823, 'longitude': -73.985152}",$$
+26,Jimmy's Corner,"['140 W 44th St', 'New York, NY 10036']",xprzjm5svSSUCZOnaUbQDQ,4.0,606,"{'latitude': 40.7566, 'longitude': -73.98483}",$
+27,The Brewery Bar & Kitchen,"['49-18 30th Ave', 'Woodside, NY 11377']",P-XnPhzdGbgbMYIcS0cpTA,4.5,123,"{'latitude': 40.760256, 'longitude': -73.907328}",$$
+28,Harlem Tavern,"['2153 Frederick Douglass Blvd', 'New York, NY 10026']",uCsyRxfIfiRqQQuK_JlfZA,3.5,1285,"{'latitude': 40.8046999, 'longitude': -73.95558}",$$
+29,Park Plaza Restaurant,"['220 Cadman Plz W', 'Brooklyn, NY 11201']",G16v_BzYeVHDPTUofRifVw,3.5,260,"{'latitude': 40.6979862, 'longitude': -73.9917908}",$$
+30,Down The Road Pub,"['683 9th Ave', 'New York, NY 10036']",CsXn5d0kYhCN_5CX6onVUg,4.5,43,"{'latitude': 40.76181, 'longitude': -73.9904}",
+31,Treadwell Park,"['1125 1st Ave', 'New York, NY 10065']",t7xqAMBQNH4ppsPSOMzFyg,4.0,455,"{'latitude': 40.7614, 'longitude': -73.9609}",$$
+32,Jeremy's Ale House- South Street Seaport,"['228 Front St', 'New York, NY 10038']",rlZP-SWgNXH-2Ejp9dHEgw,4.0,297,"{'latitude': 40.70766, 'longitude': -74.00205}",$
+33,Reservoir,"['70 University Pl', 'New York, NY 10003']",KRfq8OvEA7aJmczAQ-8pkQ,3.5,230,"{'latitude': 40.733167, 'longitude': -73.993706}",$$
+34,Treadwell Park,"['301 S End Ave', 'New York, NY 10280']",oBAxfAeF6OBukPg3WLmiRg,4.0,160,"{'latitude': 40.7102746, 'longitude': -74.0164863}",$$
+35,Mulligan's,"['159 1st St', 'Hoboken, NJ 07030']",-2wm7v5JBQ6N1QL1MY1gwA,4.0,106,"{'latitude': 40.73752, 'longitude': -74.03227}",$$
+36,Paddy Maguire's Ale House,"['237 3rd Ave Frnt', 'New York, NY 10003']",Gey_giAxXSzPbpVigXV9jQ,4.0,81,"{'latitude': 40.7364240384139, 'longitude': -73.9848463081818}",$
+37,Dalton's Bar & Grill,"['84-14 Astoria Blvd', 'East Elmhurst, NY 11370']",rrDymUQnu95UnZtTeeHfnA,3.5,48,"{'latitude': 40.7643505, 'longitude': -73.8845281}",$$
+38,Custom House,"['139 Montague St', 'Brooklyn, NY 11201']",RsLs863308rBCJqwuGfNeA,3.0,175,"{'latitude': 40.694862, 'longitude': -73.993713}",$$
+39,DaddyO's BBQ & Sports Bar,"['181 Bay St', 'Staten Island, NY 10301']",nf-uyMpAyhF2zhF0DQF4xg,3.5,216,"{'latitude': 40.63734, 'longitude': -74.075702}",$$
+40,Gold Bear,"['377 Park Ave S', 'New York, NY 10016']",Q0-QvpsNMFX-r8ypPhUqTA,4.0,52,"{'latitude': 40.74235, 'longitude': -73.98456}",$$
+41,Terminal 1,"['323 Sand Ln', 'Staten Island, NY 10305']",9QWngQn7WeoYaMFKhJ5dFA,4.5,17,"{'latitude': 40.5921058654785, 'longitude': -74.067626953125}",$$
+42,Clinton Hall,"['90 Washington St', 'New York, NY 10006']",nm5rcWNmfevNXLNQAITi5w,3.5,684,"{'latitude': 40.70803, 'longitude': -74.014869}",$$
+43,Redemption NYC,"['1003 2nd Ave', 'New York, NY 10022']",Y6N7iKl4UL2pNpX4dxYYUg,3.0,369,"{'latitude': 40.756966, 'longitude': -73.967326}",$$
+44,Brass Monkey,"['55 Little W 12th St', 'New York, NY 10014']",VYHY4LbrRWZCoZzW25zynQ,3.0,840,"{'latitude': 40.7406584244867, 'longitude': -74.0085168948392}",$$
+45,Ruby's Bar & Grill,"['1213 Riegelmann Boardwalk', 'Brooklyn, NY 11224']",LG_HHFQ0vD-PO7WTnrMzLA,3.5,157,"{'latitude': 40.573343, 'longitude': -73.980134}",$$
+46,Rocky McBride's,"['27-01 23rd Ave', 'Astoria, NY 11105']",lPAqNxEtJrcZY-X17h4zTQ,4.5,81,"{'latitude': 40.77611, 'longitude': -73.91488}",$$
+47,O'Hara's Downtown,"['172 1st St', 'Jersey City, NJ 07302']",KAWZ2Msx0fbRhN1W4_cggw,3.5,252,"{'latitude': 40.7215259224176, 'longitude': -74.0408027172089}",$$
+48,Clinton Hall,"['16 W 36th St', 'New York, NY 10018']",bpjDo7svAFD10eszaOPQHw,4.0,198,"{'latitude': 40.75009, 'longitude': -73.98471}",$$
+49,Mustang Harry's,"['352 7th Ave', 'New York, NY 10001']",nVjrffApH3q_PkjmZdqpHg,3.5,353,"{'latitude': 40.74842667, 'longitude': -73.99296667}",$$
+0,Jack Doyle's Bar & Restaurant,"['240 W 35th St', 'New York, NY 10001']",sDajjybHSYFw8gTVbknPGA,4.0,331,"{'latitude': 40.752132, 'longitude': -73.991852}",$$
+1,Stan's Sports Bar,"['836 River Ave', 'Bronx, NY 10451']",_QA8vFYCzqICqssRZ_5lhQ,4.0,133,"{'latitude': 40.8268203, 'longitude': -73.9263982}",$$
+2,Stout -  Grand Central,"['60 E 41st St', 'New York, NY 10017']",35ezIH9BDHLY4XVQrxw6NA,3.5,224,"{'latitude': 40.751629629364615, 'longitude': -73.97886976560669}",$$
+3,Turnmill,"['119 E 27th St', 'New York, NY 10016']",bF2waGOCiiZ6L9AUA46Rsw,3.5,142,"{'latitude': 40.7424, 'longitude': -73.98356}",$$
+4,Amity Hall Uptown,"['982 Amsterdam Ave', 'New York, NY 10025']",yOPbrFZ2ZUsyQWsedP6gUg,4.0,208,"{'latitude': 40.80231, 'longitude': -73.96475}",$$
+5,Slainte Bar & Lounge,"['304 Bowery', 'New York, NY 10012']",RBkz0yuQfs_5ExPhL-6jpg,4.0,237,"{'latitude': 40.724811, 'longitude': -73.992832}",$$
+6,PJ Clarke's,"['44 W 63rd St', 'Lincoln Square', 'New York, NY 10023']",60_ONUWGij1TbvDHSEcOpQ,3.0,838,"{'latitude': 40.7713765, 'longitude': -73.9824758}",$$
+7,El Jefe Nyc,"['186 Dyckman St', 'New York, NY 10040']",bQwxyhOMb8TyzE6nMMk9mQ,2.5,95,"{'latitude': 40.864521982219, 'longitude': -73.9266331493855}",$$
+8,White Horse Tavern - Financial District,"['25 Bridge St', 'New York, NY 10004']",lHGQM__w1x5Dxiq3aRPCTQ,4.0,374,"{'latitude': 40.70372, 'longitude': -74.01237}",$
+9,Gantry Bar & Kitchen,"['47-02 Vernon Blvd', 'Long Island City, NY 11101']",njDA4ALbcnjLloNC_y0E9w,3.5,142,"{'latitude': 40.7453953419365, 'longitude': -73.9532279223204}",$$
+10,Brooklyn Ice House,"['318 Van Brunt St', 'Brooklyn, NY 11231']",Hc2KkfFWYnWYtL11_F40Ew,4.5,226,"{'latitude': 40.67919, 'longitude': -74.011099}",$
+11,Tom & Jerry's,"['288 Elizabeth St', 'New York, NY 10012']",iNJDjdm3C9pUTiEcSxOtCA,4.0,256,"{'latitude': 40.724617, 'longitude': -73.993156}",$$
+12,Clyde Fraziers Wine and Dine,"['485 10th Ave', 'New York, NY 10018']",ygl43IfAeM8X4XYlSTr90w,3.5,570,"{'latitude': 40.756784795428, 'longitude': -73.9979356060821}",$$
+13,Taproom No 307,"['307 3rd Ave', 'New York, NY 10010']",r0kjf2R2H0GMJm5Yj4AusA,3.5,498,"{'latitude': 40.738981, 'longitude': -73.98266}",$$
+14,Saluggi's East,"['399 Grand St', 'New York, NY 10002']",ECw0vk1IykU3QIX1okSXdA,3.5,106,"{'latitude': 40.715948062187, 'longitude': -73.9873785183775}",$$
+15,Carragher's Pub & Restaurant,"['228 W 39th St', 'New York, NY 10018']",7boggcCID7gVdNFQn4e8hQ,4.0,222,"{'latitude': 40.7561483754108, 'longitude': -73.9908477827673}",$$
+16,Lone Wolf,"['1089 Broadway', 'Brooklyn, NY 11221']",m1SprA3LBB5mL8QaH5GTew,4.0,101,"{'latitude': 40.694531, 'longitude': -73.930436}",$
+17,Jack's Fire Dept,"['39-46 Skillman Ave', 'Sunnyside, NY 11104']",KFNYlukrDsFBVA0qkXEduw,4.0,90,"{'latitude': 40.7470827, 'longitude': -73.923715}",$
+18,Amity Hall,"['80 W 3rd St', 'New York, NY 10012']",6FIzpXy82HBT3KZaiA38-Q,3.5,421,"{'latitude': 40.72963, 'longitude': -73.99892}",$$
+19,Brooklyn Public House,"['247 Dekalb Ave', 'Brooklyn, NY 11205']",LDwxXfapMw6xNbTF0YDFaQ,3.5,324,"{'latitude': 40.68958, 'longitude': -73.96939}",$$
+20,Cooper's Craft & Kitchen,"['87 2nd Ave', 'New York, NY 10003']",7Bb_IDWV_zJqpBjAvxuBIA,4.0,438,"{'latitude': 40.72704, 'longitude': -73.9892}",$$
+21,Mason Jar NYC,"['43 E 30th St', 'New York, NY 10016']",qjzkDnjT2sIa_8-uYaMYoA,3.5,442,"{'latitude': 40.74489, 'longitude': -73.98368}",$$
+22,FancyFree,"['71 Lafayette Ave', 'Brooklyn, NY 11217']",N1yHIKuKhvWsvH-lGkoCEw,4.0,14,"{'latitude': 40.687361, 'longitude': -73.975467}",
+23,Black Horse Pub,"['568 5th Ave', 'Brooklyn, NY 11215']",AMXOlur-z5DXBeyri9b-Hg,4.0,200,"{'latitude': 40.66518, 'longitude': -73.989997}",$$
+24,Third Avenue Ale House,"['1644 3rd Ave', 'New York, NY 10128']",xwdyPDcF1PifAiXyNnyA5Q,3.5,315,"{'latitude': 40.7828, 'longitude': -73.95129}",$$
+25,Mercury Bar,"['659 9th Ave', 'New York, NY 10036']",vU1_-GPs21FfCTWr80y0uw,3.5,427,"{'latitude': 40.7608736, 'longitude': -73.9911787}",$$
+26,Legends Bar & Grill,"['7104 35th Ave', 'Jackson Heights, NY 11372']",W3aQdTf2zob3_Bn-sqRLAg,4.0,107,"{'latitude': 40.750448, 'longitude': -73.89472}",$$
+27,Breakroom,"['83 Baxter St', 'New York, NY 10013']",MfbVI5reXLIIs8Cc2HwgQw,4.5,1609,"{'latitude': 40.7166907225542, 'longitude': -73.9999440120647}",$$
+28,Two 8 Two Bar & Burger,"['282 Atlantic Ave', 'Brooklyn, NY 11201']",xiEBdZ8z5KY21Vw2pY2fJQ,4.0,673,"{'latitude': 40.688536, 'longitude': -73.989728}",$$
+29,Blind Tiger Ale House,"['281 Bleecker St', 'New York, NY 10014']",PMp7WlHIXQUnej-Ds1jRfw,4.0,889,"{'latitude': 40.731926, 'longitude': -74.003223}",$$
+30,Houston Hall,"['222 W Houston St', 'New York, NY 10014']",U3TwPnfQ1aJuilUB-JnUNw,3.5,549,"{'latitude': 40.72866, 'longitude': -74.00472}",$$
+31,Bases Loaded,"['2997 Westchester Ave', 'Bronx, NY 10461']",1at1CAz-O171bJkmZ_1EaA,4.5,14,"{'latitude': 40.84733, 'longitude': -73.83224}",$
+32,American Trash,"['1471 1st Ave', 'New York, NY 10021']",YnOLKAOE09BcsoU61ExlkA,3.5,111,"{'latitude': 40.77091, 'longitude': -73.95409}",$
+33,Bravest,"['700 2nd Ave', 'New York, NY 10016']",gosjtZsjmPTIBY4eB4qD2Q,4.0,194,"{'latitude': 40.747115, 'longitude': -73.973961}",$$
+34,Kelly's Pub,"['13611 41st Ave', 'Flushing, NY 11355']",rZgTvfxDIsjbZ3ubJdzElw,4.0,37,"{'latitude': 40.7588099, 'longitude': -73.8290899}",$
+35,Nutty Sports Bar & Grill,"['105-06 Jamaica Ave', 'Richmond Hill, NY 11418']",fiIx-m0EB91ePwVprXkvLg,4.5,3,"{'latitude': 40.695023, 'longitude': -73.841673}",
+36,The Kettle Black,"['8622 3rd Ave', 'Brooklyn, NY 11209']",X4YuMX1KgFxIc3pNkRDBZA,3.5,396,"{'latitude': 40.6229, 'longitude': -74.03159}",$$
+37,The Gin Mill,"['442 Amsterdam Ave', 'New York, NY 10024']",xGegODk2DyGam3n03Wk1fg,3.5,401,"{'latitude': 40.7847, 'longitude': -73.97741}",$$
+38,Inwood Bar and Grill,"['4892 Broadway', 'New York, NY 10034']",DCjRqV6kRPU0h-MaRRcVrQ,3.5,478,"{'latitude': 40.867068, 'longitude': -73.922459}",$$
+39,North Pole Pub,"['428 Bergen St', 'Brooklyn, NY 11217']",uVimnyjMcc7MOGzd2NRX-w,5.0,42,"{'latitude': 40.68154, 'longitude': -73.9774}",$$
+40,The Dead Poet,"['450 Amsterdam Ave', 'New York, NY 10024']",bkIMbvXOcztDVz8bpyhMzQ,4.0,434,"{'latitude': 40.78499, 'longitude': -73.97735}",$$
+41,Pat's Sports Bar,"['7313 Metropolitan Ave', 'Middle Village, NY 11379']",4I4vMGN47CmnvG8YmRK7Qg,4.5,13,"{'latitude': 40.7128967, 'longitude': -73.8788221}",$
+42,Sweet Spot,"['2272 31st St', 'Astoria, NY 11105']",S0YxOutCTnZwS0-L1lGoyg,3.5,309,"{'latitude': 40.7747291, 'longitude': -73.9124026}",$$
+43,Old Stanley's,"['226 Wyckoff Ave', 'Brooklyn, NY 11237']",qJOkS_t5FcNur2EkAb6u1A,4.0,68,"{'latitude': 40.700852, 'longitude': -73.914041}",$
+44,Moot Bar,"['579 Myrtle Ave', 'Brooklyn, NY 11205']",TE87BLxClCcIg62i0xVgMg,4.5,42,"{'latitude': 40.6941986, 'longitude': -73.9609604}",$
+45,The Chester,"['18 9th Ave', 'New York, NY 10014']",dadH6POPTxSGzLGQR93rIw,3.0,286,"{'latitude': 40.7398532, 'longitude': -74.0057335}",$$
+46,The Crisis Bar,"['913 Broadway', 'Brooklyn, NY 11206']",exn0GUwgqcZ3QdFbfmo3Eg,4.5,20,"{'latitude': 40.697827, 'longitude': -73.93623}",$$
+47,"Floyd, NY","['131 Atlantic Ave', 'Brooklyn, NY 11201']",YL1LxYufuwX5sq4RwW-2Gw,4.0,210,"{'latitude': 40.6907799, 'longitude': -73.9957}",$
+48,Public House,"['140 E 41st St', 'New York, NY 10017']",13Y2x5Yzui2Df8Sg9ktHYQ,3.0,570,"{'latitude': 40.7504856, 'longitude': -73.976214}",$$
+49,Northern Bell,"['612 Metropolitan Ave', 'Brooklyn, NY 11211']",W8flNX3SneJlQBQt7C9Q9w,4.0,287,"{'latitude': 40.71389, 'longitude': -73.94855}",$$
+0,Draught 55,"['245 E 55th St', 'New York, NY 10022']",b2naaHiaR57Hm6JZG0njPg,4.0,371,"{'latitude': 40.758377, 'longitude': -73.966515}",$$
+1,Salty Dog Bar and Restaurant,"['7509 3rd Ave', 'Brooklyn, NY 11209']",bEadv-XnsYa5IaBD_VcHfA,3.5,267,"{'latitude': 40.631083, 'longitude': -74.027611}",$$
+2,3rd & 7,"['3622 Quentin Rd', 'Brooklyn, NY 11234']",enbGceHhbBWe4cgMSePd1g,3.5,78,"{'latitude': 40.61497, 'longitude': -73.93606}",$$
+3,123 Burger Shot Beer,"['738 10th Ave', 'New York, NY 10019']",CkqOdX64U7DrRvnfh_5HnQ,3.0,1065,"{'latitude': 40.764828, 'longitude': -73.9914}",$
+4,Hibernia Bar,"['401 W 50th St', 'New York, NY 10019']",kortq9GFNGvV4ky_rVf88g,4.5,170,"{'latitude': 40.76365, 'longitude': -73.9890999}",$$
+5,12th Street Ale House,"['192 2nd Ave', 'New York, NY 10003']",EAL8nOew178pq56MnAaLOw,4.0,136,"{'latitude': 40.7310549788367, 'longitude': -73.9857779396906}",$
+6,Royale,"['157 Ave C', 'New York, NY 10009']",FCqKzOUM6DAxjU_xkXdhzg,4.0,484,"{'latitude': 40.7258174842573, 'longitude': -73.9778455564146}",$$
+7,East River Bar,"['97 S 6th St', 'Brooklyn, NY 11211']",8jurzw-RyloFCYpuGXdzFA,3.5,83,"{'latitude': 40.7109413146973, 'longitude': -73.9646453857422}",$
+8,Bluebird,"['504 Flatbush Ave', 'Brooklyn, NY 11225']",J2l2NeFmAKQPZarkMC9Ryw,3.5,156,"{'latitude': 40.66182, 'longitude': -73.96174}",$$
+9,Leo’s Restaurant and Sports Bar,"['84-19 Roosevelt Ave', 'Jackson Heights, NY 11372']",QLdRbr_1O6nVPDGucl9yeg,4.0,11,"{'latitude': 40.7481632, 'longitude': -73.8814681}",
+10,Bodega 88,"['573 Columbus Ave', 'New York, NY 10024']",3vBVnzsJLRh8WtW3awKxeQ,4.5,184,"{'latitude': 40.7875358759796, 'longitude': -73.9711353555322}",$$
+11,Barfly NY,"['244 3rd Ave', 'New York, NY 10010']",XpSVrJTLu9BFBy2_LFqIiA,4.0,136,"{'latitude': 40.73717, 'longitude': -73.98459}",$$
+12,Barrow's Pub,"['463 Hudson St', 'New York, NY 10014']",zFsHytbNoniBsPvwpXQxwg,4.0,47,"{'latitude': 40.73158, 'longitude': -74.00691}",$$
+13,The Halfway Line,"['59-10 Woodside Ave', 'Woodside, NY 11377']",S4OMoVZwjIaKXs45ILt6AQ,4.0,6,"{'latitude': 40.745151, 'longitude': -73.9052986}",$
+14,Bronx Alehouse,"['216 W 238th St', 'Bronx, NY 10463']",ciHt5n5rmpby1YcC_6JVrg,4.0,822,"{'latitude': 40.8847016520226, 'longitude': -73.8994980779851}",$$
+15,Bierhaus NYC,"['712 3rd Ave', 'New York, NY 10017']",-2aMphgYYnoxncuZ7xI3Gw,3.5,877,"{'latitude': 40.75261, 'longitude': -73.97342}",$$
+16,773 Lounge,"['773 Coney Island Ave', 'Brooklyn, NY 11218']",EdXfzD89c9tkfbIGUwI7Gg,4.0,64,"{'latitude': 40.6386879, 'longitude': -73.9684367}",$
+17,The Ridgewood Ale House,"['5738 Myrtle Ave', 'Ridgewood, NY 11385']",LuwgaxEM5ObSWMAsEVzPlg,3.0,190,"{'latitude': 40.700279, 'longitude': -73.902197}",$$
+18,The Flying Cock,"['497 3rd Ave', 'New York, NY 10016']",IGZkGbwE36iE1yaDW5NNKA,4.0,604,"{'latitude': 40.745296, 'longitude': -73.978073}",$$
+19,Bounce Sporting Club,"['55 W 21st St', 'New York, NY 10010']",K54H8wyxGjeFVHjHF9LvMg,2.0,385,"{'latitude': 40.7415466, 'longitude': -73.9932351}",$$
+20,Stout NYC,"['133 W 33rd St', 'New York, NY 10001']",NMuZQuK6UU32VlSF6khh0w,3.5,942,"{'latitude': 40.74989, 'longitude': -73.9898}",$$
+21,Pig Beach,"['480 Union St', 'Brooklyn, NY 11231']",Zzvqc7XcyGVX5bnjGN9IXA,4.0,601,"{'latitude': 40.6792941479875, 'longitude': -73.9880264255794}",$$
+22,Stadium Sports Bar,"['113-115 E 157th St', 'Bronx, NY 10451']",7SejPQQCFX63LvHFSgM6OQ,4.5,9,"{'latitude': 40.82559, 'longitude': -73.92647}",$
+23,Long Acre Tavern,"['146 W 47th St', 'New York, NY 10036']",EqraPrrv6gAedeVogvt8xw,4.5,33,"{'latitude': 40.7587089592894, 'longitude': -73.9836531096067}",$$
+24,THE HUNTRESS whiskey n' wings,"['24-03 41st Ave', 'Long island City, NY 11101']",1o7Z7uqwGfXmHnUZxW48Ug,4.0,164,"{'latitude': 40.7525625982243, 'longitude': -73.9395872725611}",$$
+25,Boobie Trap,"['308 Bleecker St', 'Brooklyn, NY 11237']",SBkebBPuX2mRUQ9VaQ91NQ,4.0,273,"{'latitude': 40.7003517876193, 'longitude': -73.9161294247438}",$
+26,Grill On the Hill,"['1624 Amsterdam Ave', 'New York, NY 10031']",GhMq3ymAsy1-QcixIY7mYg,3.5,174,"{'latitude': 40.8222280483202, 'longitude': -73.9499790674583}",$$
+27,Tavern29,"['47 E 29th St', 'New York, NY 10016']",NTwOc9yQ1xl5deeVzZqxfw,4.0,939,"{'latitude': 40.74431, 'longitude': -73.98394}",$$
+28,George Keeley,"['485 Amsterdam Ave', 'New York, NY 10024']",3004g82RXwKoqaenSqBVEg,4.0,323,"{'latitude': 40.7858376, 'longitude': -73.975986}",$$
+29,Bierocracy,"['12-23 Jackson Ave', 'Long Island City, NY 11101']",5grFfuYswh8K9GoEnOy81A,4.0,313,"{'latitude': 40.74402, 'longitude': -73.95028}",$$
+30,Highbury Pub,"['1002 Cortelyou Rd', 'New York, NY 11218']",a6SohDhpzfj4wib1ix8rxg,3.5,56,"{'latitude': 40.639049, 'longitude': -73.968495}",$$
+31,O'hanlon's,"['349 E 14th St', 'New York, NY 10003']",ANdBGjVCBxMA01QQOzNu6Q,4.0,95,"{'latitude': 40.7316597, 'longitude': -73.9829479}",$
+32,SideBAR,"['118 E 15th St', 'New York, NY 10003']",xwdL7dreL8DvpqTXaPZmAg,2.5,458,"{'latitude': 40.73467, 'longitude': -73.98859}",$$
+33,Alley Pond Sports Bar & Grill,"['232-01 Northern Blvd', 'Douglaston, NY 11362']",9yORP4XLlAzMI42Ug0pgUw,3.5,75,"{'latitude': 40.764199, 'longitude': -73.749142}",$$
+34,Woodrow's,"['43 Murray St', 'New York, NY 10007']",j8DFd-bxnvM_UfHnDLIA0g,4.0,333,"{'latitude': 40.7141113, 'longitude': -74.009201}",$$
+35,Forest Hills Station House,"['106-11 71st Ave', 'Forest Hills, NY 11375']",NVp1S29NLR573Lc4ZvICKw,4.0,1138,"{'latitude': 40.720035691092825, 'longitude': -73.84509507330708}",$$
+36,Brooklyn Burgers & Beer,"['259 5th Ave', 'Brooklyn, NY 11215']",-0bdnX762vdTb9lI00etvA,4.0,374,"{'latitude': 40.6743507, 'longitude': -73.9815826}",$$
+37,Side Door,"['151 E 57th St', 'New York, NY 10022']",J5XNBZyUwgNQjllwJZG3Lg,4.5,7,"{'latitude': 40.760863, 'longitude': -73.968251}",
+38,Albion,"['575 2nd Ave', 'New York, NY 10016']",F3-DYH9YMa3UEUaedhGocw,4.5,108,"{'latitude': 40.74336, 'longitude': -73.97733}",$$
+39,Emerald Inn,"['250 W 72nd St', 'New York, NY 10023']",VD-lSpd2zpWjTR6rUNr1JA,3.5,78,"{'latitude': 40.7792, 'longitude': -73.98381}",$$
+40,Pregame Sports Bar & Lounge,"['17823 Hillside Ave', 'Jamaica, NY 11432']",0eG1Qw89iBo1FGhbO7KfaQ,4.5,4,"{'latitude': 40.7124795, 'longitude': -73.7850803}",$
+41,The Double Windsor,"['210 Prospect Park W', 'Brooklyn, NY 11215']",xd7ioU33jkwx0hQ3kUNIOg,4.0,422,"{'latitude': 40.66063, 'longitude': -73.98056}",$$
+42,Hangar 11 Bar & Grill,"['119-11 Metropolitan Ave', 'Kew Gardens, NY 11415']",iQZYOzNB7b-vTF806dlbYA,3.5,158,"{'latitude': 40.7061098292587, 'longitude': -73.8311260566115}",$$
+43,Tryon Public House,"['4740 Broadway', 'New York, NY 10040']",ykXZyQBXxoOMoZfaZMnHmg,4.0,394,"{'latitude': 40.8649821372469, 'longitude': -73.927843119049}",$$
+44,Dive Bar,"['732 Amsterdam Ave', 'New York, NY 10025']",ubjgMch7fGLJNW60M2xilg,4.0,463,"{'latitude': 40.793975, 'longitude': -73.970809}",$$
+45,The Courtyard Ale House,"['4018 Queens Blvd', 'Sunnyside, NY 11104']",Py2_8uFX5UHLphwdEEop9A,4.0,86,"{'latitude': 40.74331, 'longitude': -73.92368}",$
+46,Eddies Sports Lounge,"['40 Marcy Ave', 'Brooklyn, NY 11211']",03-k6KZPKl1NbAVSsLyorA,3.0,6,"{'latitude': 40.712866, 'longitude': -73.955226}",$$
+47,Jake's Saloon,"['202 9th Ave', 'New York, NY 10011']",DP7fNXSo4bwYXcj4jllXxg,2.5,43,"{'latitude': 40.74592, 'longitude': -74.00134}",$$
+48,Paddy's of Park Slope,"['273 13th St', 'Brooklyn, NY 11215']",eN3h8d2xFU5PeUA7dwlqnA,4.5,21,"{'latitude': 40.66668, 'longitude': -73.98785}",$
+49,Grey Bar & Restaurant,"['43 W 26th St', 'New York, NY 10010']",vhaiRIPLJsuKWpK8M4QIMQ,3.5,125,"{'latitude': 40.7445535, 'longitude': -73.9905128}",$$
+0,Cobblestones Pub and Biergarten,"['11718 Queens Blvd', 'Forest Hills, NY 11375']",Xkz2uUnAM2ckYIUqxI0NPw,3.5,264,"{'latitude': 40.7150622, 'longitude': -73.8327231}",$$
+1,Griff's Place,"['704 New Dorp Ln', 'New Dorp Beach, NY 10306']",eMMF_kyHQIrX_An67wYcpA,4.5,60,"{'latitude': 40.5656772, 'longitude': -74.100421}",$$
+2,Stout,"['109 W 39th St', 'New York, NY 10018']",OmVjYfqXQ1VmA4gyZ1euWg,5.0,1,"{'latitude': 40.75346, 'longitude': -73.98589}",
+3,Overlook,"['225 E 44th St', 'New York, NY 10017']",4wVaJsvTuBTXAMzkhjwccg,3.5,264,"{'latitude': 40.751771, 'longitude': -73.972199}",$$
+4,Cock & Bull,"['23 W 45th St', 'New York, NY 10036']",OxqUWRZFUOz3r6_4bh4mfg,4.0,544,"{'latitude': 40.7560908823673, 'longitude': -73.9804858350908}",$$
+5,The Spring Lounge,"['48 Spring St', 'New York, NY 10012']",XZBxx5rdGBBnT2RPSdV8EQ,3.5,247,"{'latitude': 40.7219399, 'longitude': -73.99642}",$$
+6,The Supply House,"['1647 2nd Ave', 'New York, NY 10028']",eGfpa9r0aGtN3V8ZwgaOEw,4.0,351,"{'latitude': 40.7775579, 'longitude': -73.9521892}",$$
+7,Ketch Brewhouse,"['6 Platt St', 'New York, NY 10038']",93C1xqdTGHyGtoZ9vwn3KA,3.0,86,"{'latitude': 40.7073900260528, 'longitude': -74.0063956752419}",$$
+8,Tiltz Sports Bar,"['942 Flushing Ave', 'Brooklyn, NY 11206']",A9erHyMSOxjyjVOLWjvVCQ,4.0,103,"{'latitude': 40.7027, 'longitude': -73.9336}",
+9,Ampersand,"['294 3rd Ave', 'New York, NY 10010']",ePqKbqXFBCbwBaWiN2Jo9w,4.5,222,"{'latitude': 40.7386178790617, 'longitude': -73.9834206895483}",$$
+10,The Press Box,"['932 2nd Ave', 'New York, NY 10022']",ksIdLk_H9yRBTpOymReR2Q,3.5,124,"{'latitude': 40.75446, 'longitude': -73.96843}",$$
+11,Twist and Smash'd Sports,"['34-02 Steinway St', 'Long Island City, NY 11101']",HVqNT7EROzfPkzUc1yFkwQ,3.0,291,"{'latitude': 40.7566212834115, 'longitude': -73.921242}",$$
+12,The Whiskey on Grand,"['524 Grand St', 'Brooklyn, NY 11211']",GYdwGPsfXuJ_ZablxsP7CQ,4.0,45,"{'latitude': 40.7109427935129, 'longitude': -73.9503494722379}",$$
+13,Brooklyn Jazz + Sports Club,"['3523 Church Ave', 'Brooklyn, NY 11203']",_PCJ7mTFAs3a41llQ7bYyw,5.0,4,"{'latitude': 40.6511819989557, 'longitude': -73.9438980634513}",$$
+14,Barrow Street Ale House,"['15 Barrow St', 'New York, NY 10014']",LAq0KHNgGpOHVp_uGpEgWg,3.0,190,"{'latitude': 40.732647, 'longitude': -74.002529}",$$
+15,Berry Park,"['4 Berry St', 'Brooklyn, NY 11211']",DMOwfdP0Va1QI_KNefD8kg,3.5,674,"{'latitude': 40.7224719, 'longitude': -73.9552526}",$$
+16,Bulls Eye Sports Pub,"['2073 Flatbush Ave', 'Brooklyn, NY 11234']",0ts6LQlnZYUhpMD0x6gA-g,4.0,15,"{'latitude': 40.61951, 'longitude': -73.93322}",$
+17,Phebe's,"['359 Bowery', 'New York, NY 10003']",pffG9Ciyks5Xik7opl2bEw,3.5,581,"{'latitude': 40.72681, 'longitude': -73.9912901}",$$
+18,Soccer Tavern,"['6004 8th Ave', 'Brooklyn, NY 11220']",2I9PQUYfevd27rl3BtfWEg,4.5,32,"{'latitude': 40.63547, 'longitude': -74.0099}",$
+19,Broome Street Bar,"['363 W Broadway', 'New York, NY 10013']",t9m2CumYaktkVO1hs_I4Jw,3.5,255,"{'latitude': 40.723074, 'longitude': -74.002971}",$$
+20,The Waylon,"['736 10th Ave', 'New York, NY 10019']",rvabT9eHrKFKgfNPrp69Zw,4.5,117,"{'latitude': 40.7650840967709, 'longitude': -73.9918056894333}",$$
+21,Rookies Sports Bar And Grill S.I.,"['1547 Arthur Kill Rd', 'Arden Heights, NY 10312']",QwEqWAJhZ6oqycqjwZ1WMA,3.0,29,"{'latitude': 40.5626937, 'longitude': -74.1910732}",
+22,Bedford Falls,"['206 E 67th St', 'New York, NY 10065']",CEOm_NF7EeDZR4ozRZvCSg,4.0,102,"{'latitude': 40.7661503, 'longitude': -73.9625243}",$$
+23,Off The Wagon,"['109 Macdougal St', 'New York, NY 10012']",tR46H5rE6Z56oqGRKTLu8A,3.5,638,"{'latitude': 40.72993, 'longitude': -74.00082}",$$
+24,Man Overboard Sports Bar and Grill,"['247 City Island Ave', 'Bronx, NY 10464']",1k_yiPpksSmleV3pGrlEvQ,5.0,1,"{'latitude': 40.845414, 'longitude': -73.785944}",
+25,Donnybrook,"['35 Clinton St', 'New York, NY 10002']",RzJQl1yBIRd_uRq0jHlP8Q,3.5,164,"{'latitude': 40.7201891322304, 'longitude': -73.9846226613423}",$$
+26,Billy's Sports Bar,"['856 River Ave', 'Bronx, NY 10451']",3PBIlJRNjeJrbA8sn99EGw,2.5,146,"{'latitude': 40.8273327, 'longitude': -73.926092}",$$
+27,Jakes Dilemma,"['430 Amsterdam Ave', 'New York, NY 10024']",6XOHtRjdsityvdY0LniKyA,3.5,470,"{'latitude': 40.78438, 'longitude': -73.97782}",$$
+28,Fools Gold NYC,"['145 E Houston St', 'New York, NY 10002']",JagEH-imezk2KbM3RNDbXg,4.0,319,"{'latitude': 40.7231079, 'longitude': -73.9897536}",$$
+29,Bayard's Ale House,"['533 Hudson St', 'New York, NY 10014']",djK5sn1L7F2Q2id16Jn2Bw,3.5,163,"{'latitude': 40.73431, 'longitude': -74.0063799}",$$
+30,Lake Street,"['706 Manhattan Ave', 'Brooklyn, NY 11222']",IQRvQAKGMCo6hDbtsB2M1g,3.5,54,"{'latitude': 40.7257358, 'longitude': -73.9517007}",$$
+31,Hollow Nickel,"['494 Atlantic Ave', 'Brooklyn, NY 11217']",F-AfJgFrxNbn49Mp4l7aXg,4.0,217,"{'latitude': 40.685512, 'longitude': -73.981986}",$$
+32,West End Bar & Grill,"['813 8th Ave', 'New York, NY 10019']",IiIzeFqe4tJiHaAWyw7ddg,4.0,390,"{'latitude': 40.7615693, 'longitude': -73.9867747}",$$
+33,Bar Great Harry,"['280 Smith St', 'Brooklyn, NY 11231']",IPrNgaXjtEJrb8vWA3si1g,4.0,208,"{'latitude': 40.682437, 'longitude': -73.993598}",$$
+34,Hudson Yards Grill,"['20 Hudson Yards', 'Fl 4', 'New York, NY 10001']",esqICCGgA28y8Cg-l6mPZQ,3.0,150,"{'latitude': 40.7533572, 'longitude': -74.0002527}",$$$
+35,Zablozki's,"['107 N 6th St', 'Brooklyn, NY 11211']",yaD4coYkCLtq6sn3692CRw,4.0,152,"{'latitude': 40.7183462871818, 'longitude': -73.9599883275391}",$
+36,Dan and John's Wings,"['90 Kent Ave', 'Williamsburg, NY 11211']",gAbtfsSUWyfIji7iF8uuMA,4.5,33,"{'latitude': 40.7209491127924, 'longitude': -73.9621985381286}",$$
+37,The Irish American,"['17 John St', 'New York, NY 10038']",FgsN_18sk15FcTnYY3Ghjg,4.0,296,"{'latitude': 40.71015, 'longitude': -74.008781}",$$
+38,Stone Street Tavern,"['52 Stone St', 'New York, NY 10004']",NA_p2AH5RSBV314bklZn_g,3.5,442,"{'latitude': 40.7043685019016, 'longitude': -74.0102007240057}",$$
+39,Rhythm & Booze,"['1674 10th Ave', 'Brooklyn, NY 11215']",UuZkzlLVeeyvBA9DwVsZOA,4.0,72,"{'latitude': 40.65773, 'longitude': -73.97964}",$$
+40,The Gibson,"['108 Bedford Ave', 'Corner of N. 11th Street', 'Brooklyn, NY 11211']",FWpxFElwWgWbwrSTXDWZZw,4.0,94,"{'latitude': 40.720268, 'longitude': -73.955467}",$$
+41,The Local,"['41-04 31st Ave', 'Astoria, NY 11103']",--YBn9-xi4YocUK6VvCKqQ,4.5,56,"{'latitude': 40.7607294903307, 'longitude': -73.9162476360798}",$
+42,Shorty's,"['576 9th Ave', 'New York, NY 10036']",N4q6Y9cpvUbJ3O5rydrSbQ,4.0,699,"{'latitude': 40.758103, 'longitude': -73.992529}",$$
+43,95 South Soul Food,"['778 Franklin Ave', 'Brooklyn, NY 11238']",Td8KkN9rO49wf9G5IT2OaA,3.0,139,"{'latitude': 40.671931, 'longitude': -73.957784}",$$
+44,Teddy's Bar & Grill,"['96 Berry St', 'Brooklyn, NY 11249']",64SxMs06-IJSc2I-YsnDTQ,3.5,356,"{'latitude': 40.7193481, 'longitude': -73.9585056}",$$
+45,Tipsy NoMad,"['37 E 28th St', 'New York, NY 10016']",fAu6e8uCg1lfqIQ1PKNZyA,4.5,18,"{'latitude': 40.743772, 'longitude': -73.984627}",
+46,Russian Baths on Neck Road,"['1200 Gravesend Neck Rd', 'Brooklyn, NY 11229']",moK8qANVn1gQcF-fnPRnWg,4.0,62,"{'latitude': 40.59424, 'longitude': -73.95788}",$$
+47,Blackwells Pub And Restaurant,"['150 E 47th St', 'New York, NY 10017']",mp7YQdBWIHqmJoZlr-K32g,4.0,104,"{'latitude': 40.7541938, 'longitude': -73.9730946}",$$
+48,21 Bar,"['4318 Broadway', 'New York, NY 10033']",8xy2_nCRHDlnvBnF6UyiIw,4.0,16,"{'latitude': 40.85192, 'longitude': -73.93464}",$
+49,Down the Hatch,"['179 W 4th St', 'New York, NY 10014']",_owMBYfzT9dO7FXGXXzXqA,3.5,562,"{'latitude': 40.73247, 'longitude': -74.00163}",$$
+0,Carlow East,"['1254 Lexington Ave', 'New York, NY 10028']",XRK6bTyINWS1stlmCbxiYA,3.5,92,"{'latitude': 40.778689023197, 'longitude': -73.9562473565979}",$$
+1,Kilo Bravo,"['180 N 10th St', 'Brooklyn, NY 11211']",1WWG2t_9RnAJnMPqqTqZ8A,4.0,42,"{'latitude': 40.718884, 'longitude': -73.955421}",$
+2,J.G. Melon,"['1291 3rd Ave', 'New York, NY 10021']",77EedCTJY1biWIYSzAulCQ,3.5,1319,"{'latitude': 40.77105, 'longitude': -73.95931}",$$
+3,Uncle Barry's,"['58 5th Ave', 'Brooklyn, NY 11217']",x41gFmTksra32RdYFjOPHQ,4.0,123,"{'latitude': 40.6812759, 'longitude': -73.9773854}",$$
+4,PJ Leahy's,"['5002 Vernon Blvd', 'Long Island City, NY 11101']",33SyxCFwGOK_ws-05W_-lA,3.5,68,"{'latitude': 40.742645, 'longitude': -73.954452}",$$
+5,That Bar,"['47 5th Ave', 'Brooklyn, NY 11217']",CJpBLfB3csuC0ZVQYaqbtQ,4.0,32,"{'latitude': 40.6813421554003, 'longitude': -73.9769475638237}",$$
+6,Cornerstone Tavern,"['961 2nd Ave', 'New York, NY 10022']",Fyrw-Vcs9krhRx7pGrPdtQ,3.5,269,"{'latitude': 40.755612, 'longitude': -73.968301}",$$
+7,Brik Astoria,"['32-16 Steinway St', 'Astoria, NY 11103']",5aMOBYHFqogEunt9gBxQvw,3.5,207,"{'latitude': 40.75859, 'longitude': -73.91963}",$$
+8,Corner Social,"['321 Malcolm X Blvd', 'New York, NY 10027']",Z8pm4rLTBki7OLgtbcTXEg,3.5,1094,"{'latitude': 40.8085637, 'longitude': -73.9450228}",$$
+9,The District,"['1679 3rd Ave', 'New York, NY 10128']",R9XDds0a1_jip3glIdlQsg,3.0,363,"{'latitude': 40.783851, 'longitude': -73.949892}",$$
+10,CJ's Bar and Lounge,"['137-09 Crossbay Blvd', 'Ozone Park, NY 11417']",EfCZ79gw5KdgW5zJzj8-2Q,3.5,61,"{'latitude': 40.671865, 'longitude': -73.84275}",$$
+11,White Oak Tavern,"['21 Waverly Pl', 'New York, NY 10003']",mVN2G1c5bRtAsNlr2Tbx6Q,4.0,359,"{'latitude': 40.73036, 'longitude': -73.99462}",$$
+12,99 Rogers,"['99 Rogers Ave', 'Crown Heights, NY 11216']",g0ELjSBBNR3YMDa1I8l1AQ,4.0,111,"{'latitude': 40.67427, 'longitude': -73.95268}",$$
+13,Arts and Crafts Beer Parlor,"['26 W 8th St', 'New York, NY 10011']",7sQYI_Ym9RzlxHIhJpj6hg,4.5,251,"{'latitude': 40.7327283010334, 'longitude': -73.9977158235951}",$$
+14,Loreley Beer Garden,"['7 Rivington St', 'New York, NY 10002']",K_e7_aNgghFLZ2zvjFSNkQ,3.5,759,"{'latitude': 40.7212291, 'longitude': -73.992872}",$$
+15,Pig n Whistle,"['202 W 36th St', 'New York, NY 10018']",nkT08Tewf6TLaysiuiF8Ow,3.0,198,"{'latitude': 40.7523995, 'longitude': -73.9901114}",$$
+16,The Keg Room,"['53 W 36th St', 'New York, NY 10018']",gRInJiXyp2qO3dW7Y9iqkg,3.5,363,"{'latitude': 40.75083806780308, 'longitude': -73.98589488118887}",$$
+17,Club House Sports Bar,"['6121 Fresh Pond Rd', 'Middle Village, NY 11379']",OkZc7O3PatlWqDkush0LNg,4.0,8,"{'latitude': 40.714025, 'longitude': -73.900734}",$
+18,Fort Washington Public House,"['3938 Broadway', 'New York, NY 10032']",n4m37Dm2Y5MUPF_dFGG_ww,4.0,74,"{'latitude': 40.8390591026124, 'longitude': -73.9410637691617}",$$
+19,The Bronx Public,"['170 W 231st St', 'Bronx, NY 10463']",KAxYFGyOQ7ysCmYmh8jKtw,4.0,495,"{'latitude': 40.87827, 'longitude': -73.90341}",$$
+20,Granny Annie’s Bar And Kitchen,"['425 Main St', 'New York, NY 10044']",FwnEoJ4Xl5_5byVLhmxzoQ,4.0,14,"{'latitude': 40.7586428180471, 'longitude': -73.9528506830577}",
+21,Krush,"['2 W 32nd St', 'Fl 4', 'New York, NY 10001']",leYx3XTNEDLn9ezoXjlA5g,3.5,202,"{'latitude': 40.747204, 'longitude': -73.986198}",$$
+22,First Stop Bar & Grill,"['27-08 Queens Plz S', 'Long Island City, NY 11101']",G5vloUoIkEkR80qVY8O4-A,2.5,12,"{'latitude': 40.7497616, 'longitude': -73.9391948}",$
+23,One Star,"['147 W 24th St', 'New York, NY 10011']",QKiVXF-Y1IK_NkRfvtY4sQ,4.0,153,"{'latitude': 40.7445145622588, 'longitude': -73.9940418298492}",$
+24,43 Bar & Grill,"['4306 43rd St', 'Sunnyside, NY 11104']",s52N3knXzElVWp473q08aQ,3.5,264,"{'latitude': 40.7450115, 'longitude': -73.9213429}",$$
+25,Set LES,"['127 Ludlow St', 'New York, NY 10002']",4hukJNoy9F2ILYJZWl4Xlw,4.0,475,"{'latitude': 40.7198495417833, 'longitude': -73.9885318279266}",$$
+26,Brewski's,"['3718 E Tremont Ave', 'Bronx, NY 10465']",DmOxYVMsPfAhA3iXS15mJA,3.5,121,"{'latitude': 40.8265599, 'longitude': -73.8224469}",$$
+27,Watermark,"['Pier 15, 78 S St', 'New York, NY 10038']",jEEb_EKKD2lx2mvTly_U6Q,3.0,259,"{'latitude': 40.7043789539783, 'longitude': -74.0029934983643}",$$
+28,The Highwood,"['500 Ave At Port Imperial', 'Weehawken, NJ 07086']",BXY0ZV3dNopEU1jphLEQrA,4.0,67,"{'latitude': 40.77683348001929, 'longitude': -74.0116246417165}",
+29,Black Bear Bar & Grill,"['205 Washington St', 'Hoboken, NJ 07030']",cq3QvbtK1B9Cxa15iyK56g,3.0,365,"{'latitude': 40.73889593901596, 'longitude': -74.0299869969242}",$$
+30,El Potrero Sports Bar,"['4612 Greenpoint Ave', 'Sunnyside, NY 11104']",TYqdJUhs6GJGnqLKAE9kRA,1.0,1,"{'latitude': 40.742208, 'longitude': -73.918203}",
+31,Whiskey Trader,"['71 W 55th St', 'New York, NY 10019']",UngCZMRpPmmyGJvuVrTswg,3.5,213,"{'latitude': 40.76288, 'longitude': -73.97752}",$$
+32,Scruffy Duffy's,"['639 10th Ave', 'New York, NY 10036']",8bia-R_OFOEN-tJEdhWPKg,4.5,13,"{'latitude': 40.76179, 'longitude': -73.99412}",$$
+33,The Brooklyn Brewery,"['79 N 11th St', 'Brooklyn, NY 11211']",oFDKXoHhSBQgDGjADLfQEg,4.0,991,"{'latitude': 40.721636270191, 'longitude': -73.9576329544152}",$$
+34,Yankee Tavern,"['72 E 161st St', 'Bronx, NY 10451']",0PNqgljlrf1J3gCPY5NP8A,3.5,101,"{'latitude': 40.8273023, 'longitude': -73.9252554}",$$
+35,The Tippler,"['425 W 15th St', 'New York, NY 10011']",-egltOQhAdo1kWlPSJfmvA,4.0,674,"{'latitude': 40.7423540864346, 'longitude': -74.0063398693085}",$$
+36,Boxers,"['37 W 20th St', 'New York, NY 10011']",lUhkHUX-GTRovbMn0lc6ZA,3.0,222,"{'latitude': 40.74072, 'longitude': -73.99318}",$$
+37,The Winslow Gin House And Eatery,"['243 E 14th St', 'New York, NY 10003']",3NbhYebjZPjLTWZZyRuhsw,4.5,541,"{'latitude': 40.7327766418457, 'longitude': -73.9852142333984}",$$
+38,Foxy Johns Bar & Kitchen,"['143 E 47th St', 'New York, NY 10017']",T-ciFE0hc6O2JDY8Y1cDgg,4.0,296,"{'latitude': 40.75445, 'longitude': -73.97274}",$$
+39,Cooper's Craft & Kitchen,"['169 8th Ave', 'New York, NY 10011']",Li52Rr6BM4bGNYdpn7H8_w,4.0,382,"{'latitude': 40.742702, 'longitude': -74.000778}",$$
+40,Prospect Bar & Grill,"['545 5th Ave', 'Brooklyn, NY 11215']",Kgf2O5qRqSpPv8E346J8jQ,4.0,153,"{'latitude': 40.665832, 'longitude': -73.988916}",$$
+41,Walsh's Pub,"['6867 Fresh Pond Rd', 'Queens, NY 11385']",Y4XUTOcEiX68LuPpD64zDA,5.0,2,"{'latitude': 40.703505, 'longitude': -73.895196}",
+42,Park Avenue Tavern,"['99 Park Ave', 'New York, NY 10016']",LHxZgTddXIp_S1sL3nNG9w,4.0,794,"{'latitude': 40.75031, 'longitude': -73.9783999}",$$
+43,Astoria Tavern,"['33-16 23rd Ave', 'Astoria, NY 11105']",JCjBc8yox77AruEcfmW7tA,4.0,77,"{'latitude': 40.7731910081665, 'longitude': -73.9113436728784}",$
+44,Playwright Irish Pub,"['27 W 35th St', 'New York, NY 10001']",fU8gJtLz1r6oQ94l1kS5Ag,4.0,461,"{'latitude': 40.749885559082, 'longitude': -73.9853439331055}",$$
+45,Mudville9,"['126 Chambers St', 'New York, NY 10007']",L0g4PLqpgWz0OkpGFbUTZA,3.5,390,"{'latitude': 40.71520852817451, 'longitude': -74.0089192}",$$
+46,JJ Sport Bar Restaurant,"['545 E 183rd St', 'Bronx, NY 10458']",MdxsHDBhTa73dpQaEYEsfA,5.0,1,"{'latitude': 40.854546, 'longitude': -73.891168}",
+47,Lilly's Craft and Kitchen,"['675 9th Ave', 'New York, NY 10036']",JXcYD52B4190gIh6_RSXCg,4.0,1072,"{'latitude': 40.76138, 'longitude': -73.99071}",$$
+48,Alphabet City Beer Company,"['96 Ave C', 'New York, NY 10009']",VN7CdSCyo-ZWquo_ouGoVA,4.5,195,"{'latitude': 40.723652, 'longitude': -73.978836}",$$
+49,Karaoke City,"['22 W 32nd St', 'Fl 7', 'New York, NY 10001']",yPr7zZcTNNfDUO-7oFw-AA,4.5,284,"{'latitude': 40.74763, 'longitude': -73.9868599}",$$
+0,4th Down Sports Bar,"['750 Grand St', 'Brooklyn, NY 11211']",WighGWv8nmo5N6f0FZETHw,4.5,48,"{'latitude': 40.7115402, 'longitude': -73.9432755}",$
+1,Standings,"['43 E 7th St', 'New York, NY 10003']",VCoSWqRuQVvyKS32sZqgRw,4.0,147,"{'latitude': 40.72832, 'longitude': -73.98855}",$$
+2,Tailgate Outdoor Sports Bar,"['86 N 11th St', 'Brooklyn, NY 11249']",IXujdH6UqFrYHUyzMqFrVg,4.0,13,"{'latitude': 40.72139596280044, 'longitude': -73.95763005384187}",
+3,The Three Monkeys,"['236 W 54th St', 'New York, NY 10019']",IBgjj5VBu5JJvKgo9EzKrg,4.0,1193,"{'latitude': 40.764164, 'longitude': -73.98306}",$$
+4,The Grayson,"['16 1st Ave', 'New York, NY 10009']",RAejT6MPqqpprhgiCDdyJA,3.5,232,"{'latitude': 40.72338, 'longitude': -73.98797}",$$
+5,Bar-Coastal NYC,"['1495 1st Ave', 'New York, NY 10075']",UjdqrYedKDokSPE2dDwFbA,4.0,297,"{'latitude': 40.77189, 'longitude': -73.95342}",$$
+6,The Grafton,"['126 1st Ave', 'New York, NY 10009']",ZCfqAtpASbibf_YaU1rIpw,4.0,78,"{'latitude': 40.7271881103516, 'longitude': -73.9851989746094}",$$
+7,Union Grounds,"['270 Smith St', 'New York, NY 11231']",-mttoQ5KTGlOJqbuYE3o9Q,4.0,69,"{'latitude': 40.6826515, 'longitude': -73.9933624}",$$
+8,Triona's On Third,"['192 3rd Ave', 'New York, NY 10003']",e4FbDBoHWCOvDoHkrXzPsA,4.0,97,"{'latitude': 40.7355003356934, 'longitude': -73.9857711791992}",$$
+9,Croxley's Ale House - Brooklyn,"['63 Grand St', 'Brooklyn, NY 11249']",lFPumaCSb159q18nKXnEzg,3.5,316,"{'latitude': 40.716096, 'longitude': -73.964839}",$$
+10,Smithfield Hall,"['138 W 25th St', 'New York, NY 10001']",GlSWzWVmQsKLGxySYSGRbQ,4.0,478,"{'latitude': 40.7447532620452, 'longitude': -73.9934939850447}",$$
+11,Triona's,"['237 Sullivan St', 'New York, NY 10012']",_xRGTDjG-nYMgCCNcmCoNQ,4.0,112,"{'latitude': 40.72989, 'longitude': -73.99938}",$
+12,Tap Haus 33,"['14 E 33rd St', 'New York, NY 10016']",lNP1km2kaEtlsBw2VNHHhQ,4.5,215,"{'latitude': 40.747247, 'longitude': -73.9843}",$$
+13,Fulton Hall,"['250 Ashland Pl', 'Brooklyn, NY 11217']",mfeXowi4L3Uk__BJYYiuoQ,4.0,58,"{'latitude': 40.6876387450716, 'longitude': -73.9783539913113}",$$
+14,Kent Ale House,"['51 Kent Ave', 'Brooklyn, NY 11249']",SBLoGGk936tFHg0gYSZ-ow,4.0,179,"{'latitude': 40.7223281860352, 'longitude': -73.9592514038086}",$$
+15,Blondies Sports,"['212 W 79th St', 'New York, NY 10024']",zzVeJukpmXchLTQQhxzQjQ,3.5,461,"{'latitude': 40.78321, 'longitude': -73.97919}",$$
+16,Bleachers Sports Bar & Grill,"['240 Flatbush Ave', 'Park Slope, NY 11217']",iLkU9Wo0Zte4DechmGnMqg,3.0,79,"{'latitude': 40.6802563732559, 'longitude': -73.9749691478851}",$$
+17,The Hairy Lemon Pub,"['28 Avenue B', 'New York, NY 10009']",s-n0KW8iqiq-C96tpxm2rA,4.5,72,"{'latitude': 40.72249, 'longitude': -73.98338}",$
+18,The Soccer Republic,"['251 W 51st St', 'New York, NY 10019']",5cWiDSoiaOUjBLSTKxRkNg,4.0,52,"{'latitude': 40.7628417, 'longitude': -73.9850351}",$$
+19,Clara's,"['53 Wilson Ave', 'Brooklyn, NY 11237']",hcxdYdqMiuFVPYza3DEkdQ,4.5,115,"{'latitude': 40.7025937642269, 'longitude': -73.9287076595245}",$$
+20,Legends New York City,"['6 W 33rd St', 'New York, NY 10001']",wKxir9c-sdzfWsMYxrRAJA,3.5,415,"{'latitude': 40.7479973137379, 'longitude': -73.9857148379087}",$$
+21,Roebling Sporting Club,"['225 N 8th St', 'Brooklyn, NY 11211']",NoKrcCTeoLOlN4_-UMrjGA,3.5,69,"{'latitude': 40.71698, 'longitude': -73.95466}",$$
+22,The Ainsworth,"['122 W 26th St', 'New York, NY 10001']",hgwnIf9c9_IvY40YhdqQfw,3.0,635,"{'latitude': 40.745182, 'longitude': -73.992583}",$$
+23,Blue Haven,"['108 W Houston St', 'New York, NY 10012']",-2smQGGU3npnPljI8OUwfA,3.5,193,"{'latitude': 40.727572, 'longitude': -74.000566}",$$
+24,O'Hara's Restaurant and Pub,"['120 Cedar St', 'Ste 4', 'New York, NY 10006']",ZnhRUBos9FGQZrzbcPn6Vg,4.0,467,"{'latitude': 40.7093473589949, 'longitude': -74.0122557367896}",$$
+25,Greenwich Sports Tavern Village,"['1 7th Ave S', 'New York, NY 10014']",3kqGCsIwLwhzWvgyFK6yow,4.0,31,"{'latitude': 40.729714, 'longitude': -74.004792}",
+26,Gramercy Ale House,"['272 3rd Ave', 'New York, NY 10010']",bWhupxuUj3LTu0aK3CuOtA,3.5,89,"{'latitude': 40.73797, 'longitude': -73.98413}",$$
+27,Lion's Head Tavern,"['995 Amsterdam Ave', 'New York, NY 10025']",Y_8ZwQYDznZX1-rs_wm6RQ,4.0,223,"{'latitude': 40.80214, 'longitude': -73.96406}",$$
+28,Barriles Restaurant and Sports Bar,"['83-14 37th Ave', 'Jackson Heights, NY 11372']",okShSwX3iNeQ4os3751yOg,3.5,94,"{'latitude': 40.7496763, 'longitude': -73.8828024}",$$
+29,Blue Haven East,"['493 3rd Ave', 'New York, NY 10016']",ECbvfMyJMd2SpNRb_01I5A,4.5,44,"{'latitude': 40.74522, 'longitude': -73.97827}",$$
+30,Dark Horse,"['17 Murray St', 'New York, NY 10007']",bJdS98j_HTfyg-xUlu6V5A,4.0,396,"{'latitude': 40.713718, 'longitude': -74.008036}",$$
+31,J.Bespoke,"['121 E 27th St', 'New York, NY 10016']",y8oTTcZqb7RPA0Zu8wTyqA,4.5,26,"{'latitude': 40.742498, 'longitude': -73.983481}",
+32,Finn’s Corner,"['660 Washington Ave', 'Brooklyn, NY 11238']",ZhwXNucu2sV9XfILoXbNjw,4.0,37,"{'latitude': 40.6784, 'longitude': -73.96404}",$$
+33,Windy City Ale House,"['7915 3rd Ave', 'Brooklyn, NY 11209']",az4tZj2pFMBCy-X84cQXxA,4.0,124,"{'latitude': 40.628039, 'longitude': -74.028829}",$$
+34,Harlem Public,"['3612 Broadway', 'New York, NY 10031']",zWem2SAbFc7lIYR2y9DE0g,4.0,1006,"{'latitude': 40.828717774457, 'longitude': -73.9484412254424}",$$
+35,The Commissioner,"['247 5th Ave', 'Brooklyn, NY 11215']",xHgMfdyLA5SPQz4c3ItTgg,5.0,141,"{'latitude': 40.67487, 'longitude': -73.98137}",$
+36,Game Day Sports Bar,"['5757 Broadway', 'Bronx, NY 10463']",H4rjZ8ya-NYuxAnPflzo1g,5.0,25,"{'latitude': 40.88350833, 'longitude': -73.90170833}",
+37,Black Walnut Public House,"['140 Schermerhorn St', 'Brooklyn, NY 11201']",d0Up0vNOqr1eL3EtjHboMA,4.0,39,"{'latitude': 40.6896982, 'longitude': -73.9881975}",$$$
+38,All Stars Sports Bar & Grill,"['327 W 57th St', 'New York, NY 10019']",EnGZNQRml1HbcfT1eCfJBw,4.0,57,"{'latitude': 40.76741, 'longitude': -73.98408}",$$
+39,District Tap House,"['246 W 38th St', 'New York, NY 10018']",Z65cd3Z7JvwK8TnSVg-cfA,4.0,818,"{'latitude': 40.75409, 'longitude': -73.99039}",$$
+40,IV Purpose,"['1489 Fulton St', 'Brooklyn, NY 11216']",iEfftZZq-jiR4UV2_fnFVA,4.5,19,"{'latitude': 40.68012, 'longitude': -73.94176}",
+41,East End Bar & Grill,"['1664 1st Ave', 'Between 86th & 87th St', 'New York, NY 10028']",kRuWQS_e9G87fCqelpMEFA,4.0,181,"{'latitude': 40.777278, 'longitude': -73.94873}",$$
+42,The Bowery Beer Garden,"['93 Bowery', 'New York, NY 10002']",7yJ3fOQp3oj2xuDaUGD3_A,3.0,86,"{'latitude': 40.7171, 'longitude': -73.99533}",$$
+43,Whiskey Tavern,"['79 Baxter St', 'New York, NY 10013']",c3Ww3pgeHjBi3ctkeUWrjQ,4.5,781,"{'latitude': 40.71646, 'longitude': -73.99969}",$$
+44,Charlies Sports Bar,"['4408 60th St', 'Woodside, NY 11377']",yy42y6h3iLExmrkY7ssNqg,4.0,13,"{'latitude': 40.741873, 'longitude': -73.904721}",$
+45,Tap House,"['72-07 Austin St', 'Forest Hills, NY 11375']",dRKgo1PtygjL5ln_AUYhWg,3.5,199,"{'latitude': 40.7192292809486, 'longitude': -73.8422159850597}",$$
+46,McMahon's Public House,"['39 5th Ave', 'Brooklyn, NY 11217']",HWTH6QwatW6lcYaIWgw4Kg,4.0,191,"{'latitude': 40.6816498, 'longitude': -73.9765623}",$$
+47,Five Iron Golf,"['22 Stone St', 'New York, NY 10004']",b_21eSHtluULgWd8r3EfUA,5.0,14,"{'latitude': 40.7041736028743, 'longitude': -74.0105148450791}",
+48,Eastpoint,"['25 Ave B', 'New York, NY 10009']",r2eXF4w9e8_V3RQTTPTfKw,4.0,67,"{'latitude': 40.72228, 'longitude': -73.98311}",$$
+49,Wogies Bar & Grill,"['39 Greenwich Ave', 'New York, NY 10014']",L9GlASdPU4rZEc3FWCsE8Q,4.0,327,"{'latitude': 40.73539, 'longitude': -74.00057}",$$
+0,Honore Club,"['173 Irving Ave', 'Brooklyn, NY 11237']",BPbpVx_U-J5vo3joig7oBg,4.5,12,"{'latitude': 40.70223, 'longitude': -73.9198}",
+1,Play Sport Club,"['52 Walker St', 'New York, NY 10013']",eF9VfTWXm8cnVFjXYTaqgA,4.0,4,"{'latitude': 40.71909, 'longitude': -74.00332}",
+2,Henry Street Ale House,"['62 Henry St', 'Brooklyn, NY 11201']",lqkqsHe_2KN35LE5JIaYNg,3.5,230,"{'latitude': 40.69909448771299, 'longitude': -73.9924659}",$$
+3,The Brew Inn,"['924 Manhattan Ave', 'Brooklyn, NY 11222']",w5B0FmQoEOoeURoFuguh0w,4.0,159,"{'latitude': 40.731044, 'longitude': -73.954101}",$$
+4,Ralphs Sports Bar,"['1571 Richmond Rd', 'Staten Island, NY 10304']",fK05t_-3PihU5Si_8_hR5g,5.0,16,"{'latitude': 40.591242, 'longitude': -74.101235}",
+5,Aris Sport Bar Restaurant,"['4514 3rd Ave', 'Brooklyn, NY 11220']",kKjl8tBSRcehQOPA1RVUlg,3.0,2,"{'latitude': 40.65034, 'longitude': -74.01225}",
+6,Banter,"['132 Havemeyer St', 'Brooklyn, NY 11211']",Ro-EW-LYUOXlnkb9wUmX8A,4.5,101,"{'latitude': 40.712184, 'longitude': -73.95743}",$$
+7,The Village Tavern,"['46 Bedford St', 'New York, NY 10014']",jC-8mWq2-vVf-Km_6IaEtQ,3.0,120,"{'latitude': 40.730583, 'longitude': -74.004173}",$$
+8,Fulton Ale House,"['1446 Fulton St', 'Brooklyn, NY 11216']",TOY_If66a2n0zLNNrH-wag,4.0,44,"{'latitude': 40.6798823, 'longitude': -73.942972}",$$
+9,Hair of the Dog,"['168 Orchard St', 'New York, NY 10002']",gdcxZY7HEAb8aOMDsPBKfA,3.0,408,"{'latitude': 40.72132967142, 'longitude': -73.9887227379339}",$$
+10,The Ainsworth - Midtown,"['45 E 33rd St', 'New York, NY 10016']",P07uKcnA9gkk7B6exFtuYg,3.0,254,"{'latitude': 40.7468295, 'longitude': -73.98246}",$$
+11,Shorty's,"['62 Pearl St', 'New York, NY 10004']",Ai9zcAveCf-eRPup4HIXhw,4.0,277,"{'latitude': 40.7034454, 'longitude': -74.0110779}",$$
+12,Greenwich Street Tavern,"['399 Greenwich St', 'New York, NY 10013']",tS57VDB7MA81rzOsQkTrmw,4.0,124,"{'latitude': 40.720839, 'longitude': -74.0096888}",$$
+13,Stout NYC FiDi,"['90 John St', 'New York, NY 10038']",CM0RFd0kqkT-LdC3gXGk2Q,3.5,241,"{'latitude': 40.7079086, 'longitude': -74.0064774}",$$
+14,The Ainsworth - East Village,"['64 3rd Ave', 'New York, NY 10003']",7qAHwsaiiK2bh404pugjNw,3.0,106,"{'latitude': 40.73138, 'longitude': -73.98902}",$$
+15,Hudson Hound,"['575 Hudson St', 'New York, NY 10014']",H3AnaDvXg_tXticwUGL7PA,4.0,110,"{'latitude': 40.73615, 'longitude': -74.00609}",$$
+16,At the Wallace,"['3612 Broadway', 'New York, NY 10031']",hhNhU-Lili1DimLWkdmERA,4.5,204,"{'latitude': 40.8286495970992, 'longitude': -73.9485832208136}",$$
+17,The Wing Bar,"['275 Smith St', 'Brooklyn, NY 11231']",UOhnGQBzf2ISTHM4Bj5Gvw,3.5,349,"{'latitude': 40.6825199, 'longitude': -73.99318}",$$
+18,Keg & Lantern Brewing Company,"['97 Nassau Ave', 'Brooklyn, NY 11222']",8vwANffgp9s9RDCSn3mD5w,4.0,266,"{'latitude': 40.724054, 'longitude': -73.950341}",$$
+19,Blue Smoke,"['255 Vesey St', 'New York, NY 10282']",tA1QO_GParSsaOaO8UoBvQ,3.5,649,"{'latitude': 40.714486, 'longitude': -74.0152768}",$$
+20,End Zone Sports Bar & Lounge,"['28 Dooley St', 'Brooklyn, NY 11235']",fiAlkC97QY9bUNOghKT9lQ,5.0,6,"{'latitude': 40.58437, 'longitude': -73.9453}",
+21,Kelly's Sports Bar,"['12 Ave A', 'New York, NY 10009']",VpkM5wo4hlasE4wgY0rGrQ,3.0,113,"{'latitude': 40.722623616457, 'longitude': -73.9859582483768}",$
+22,The Junction,"['329 Lexington Ave', 'New York, NY 10016']",C74MT6T_Ew0fCZjuWU96jQ,4.0,165,"{'latitude': 40.74928, 'longitude': -73.97731}",$$
+23,Emblem,"['187 Graham Ave', 'Brooklyn, NY 11206']",_iGGytMIRiutzVDqx_Qing,4.5,97,"{'latitude': 40.70844, 'longitude': -73.94355}",$$
+24,Wheeler's Restaurant,"['1707 Sheepshead Bay Rd', 'Brooklyn, NY 11235']",ugzHlkx2ILYzs72_8hxV8w,4.0,189,"{'latitude': 40.5857567, 'longitude': -73.95157}",$$
+25,Dram Shop,"['339 9th St', 'Brooklyn, NY 11215']",YBEjrVXSy8CDph7EBV5WJQ,4.0,566,"{'latitude': 40.668823, 'longitude': -73.985152}",$$
+26,Jimmy's Corner,"['140 W 44th St', 'New York, NY 10036']",xprzjm5svSSUCZOnaUbQDQ,4.0,606,"{'latitude': 40.7566, 'longitude': -73.98483}",$
+27,The Brewery Bar & Kitchen,"['49-18 30th Ave', 'Woodside, NY 11377']",P-XnPhzdGbgbMYIcS0cpTA,4.5,123,"{'latitude': 40.760256, 'longitude': -73.907328}",$$
+28,Harlem Tavern,"['2153 Frederick Douglass Blvd', 'New York, NY 10026']",uCsyRxfIfiRqQQuK_JlfZA,3.5,1285,"{'latitude': 40.8046999, 'longitude': -73.95558}",$$
+29,Park Plaza Restaurant,"['220 Cadman Plz W', 'Brooklyn, NY 11201']",G16v_BzYeVHDPTUofRifVw,3.5,260,"{'latitude': 40.6979862, 'longitude': -73.9917908}",$$
+30,Down The Road Pub,"['683 9th Ave', 'New York, NY 10036']",CsXn5d0kYhCN_5CX6onVUg,4.5,43,"{'latitude': 40.76181, 'longitude': -73.9904}",
+31,Treadwell Park,"['1125 1st Ave', 'New York, NY 10065']",t7xqAMBQNH4ppsPSOMzFyg,4.0,455,"{'latitude': 40.7614, 'longitude': -73.9609}",$$
+32,Jeremy's Ale House- South Street Seaport,"['228 Front St', 'New York, NY 10038']",rlZP-SWgNXH-2Ejp9dHEgw,4.0,297,"{'latitude': 40.70766, 'longitude': -74.00205}",$
+33,Reservoir,"['70 University Pl', 'New York, NY 10003']",KRfq8OvEA7aJmczAQ-8pkQ,3.5,230,"{'latitude': 40.733167, 'longitude': -73.993706}",$$
+34,Treadwell Park,"['301 S End Ave', 'New York, NY 10280']",oBAxfAeF6OBukPg3WLmiRg,4.0,160,"{'latitude': 40.7102746, 'longitude': -74.0164863}",$$
+35,Mulligan's,"['159 1st St', 'Hoboken, NJ 07030']",-2wm7v5JBQ6N1QL1MY1gwA,4.0,106,"{'latitude': 40.73752, 'longitude': -74.03227}",$$
+36,Paddy Maguire's Ale House,"['237 3rd Ave Frnt', 'New York, NY 10003']",Gey_giAxXSzPbpVigXV9jQ,4.0,81,"{'latitude': 40.7364240384139, 'longitude': -73.9848463081818}",$
+37,Dalton's Bar & Grill,"['84-14 Astoria Blvd', 'East Elmhurst, NY 11370']",rrDymUQnu95UnZtTeeHfnA,3.5,48,"{'latitude': 40.7643505, 'longitude': -73.8845281}",$$
+38,Custom House,"['139 Montague St', 'Brooklyn, NY 11201']",RsLs863308rBCJqwuGfNeA,3.0,175,"{'latitude': 40.694862, 'longitude': -73.993713}",$$
+39,DaddyO's BBQ & Sports Bar,"['181 Bay St', 'Staten Island, NY 10301']",nf-uyMpAyhF2zhF0DQF4xg,3.5,216,"{'latitude': 40.63734, 'longitude': -74.075702}",$$
+40,Gold Bear,"['377 Park Ave S', 'New York, NY 10016']",Q0-QvpsNMFX-r8ypPhUqTA,4.0,52,"{'latitude': 40.74235, 'longitude': -73.98456}",$$
+41,Terminal 1,"['323 Sand Ln', 'Staten Island, NY 10305']",9QWngQn7WeoYaMFKhJ5dFA,4.5,17,"{'latitude': 40.5921058654785, 'longitude': -74.067626953125}",$$
+42,Clinton Hall,"['90 Washington St', 'New York, NY 10006']",nm5rcWNmfevNXLNQAITi5w,3.5,684,"{'latitude': 40.70803, 'longitude': -74.014869}",$$
+43,Redemption NYC,"['1003 2nd Ave', 'New York, NY 10022']",Y6N7iKl4UL2pNpX4dxYYUg,3.0,369,"{'latitude': 40.756966, 'longitude': -73.967326}",$$
+44,Brass Monkey,"['55 Little W 12th St', 'New York, NY 10014']",VYHY4LbrRWZCoZzW25zynQ,3.0,840,"{'latitude': 40.7406584244867, 'longitude': -74.0085168948392}",$$
+45,Ruby's Bar & Grill,"['1213 Riegelmann Boardwalk', 'Brooklyn, NY 11224']",LG_HHFQ0vD-PO7WTnrMzLA,3.5,157,"{'latitude': 40.573343, 'longitude': -73.980134}",$$
+46,Rocky McBride's,"['27-01 23rd Ave', 'Astoria, NY 11105']",lPAqNxEtJrcZY-X17h4zTQ,4.5,81,"{'latitude': 40.77611, 'longitude': -73.91488}",$$
+47,O'Hara's Downtown,"['172 1st St', 'Jersey City, NJ 07302']",KAWZ2Msx0fbRhN1W4_cggw,3.5,252,"{'latitude': 40.7215259224176, 'longitude': -74.0408027172089}",$$
+48,Clinton Hall,"['16 W 36th St', 'New York, NY 10018']",bpjDo7svAFD10eszaOPQHw,4.0,198,"{'latitude': 40.75009, 'longitude': -73.98471}",$$
+49,Mustang Harry's,"['352 7th Ave', 'New York, NY 10001']",nVjrffApH3q_PkjmZdqpHg,3.5,353,"{'latitude': 40.74842667, 'longitude': -73.99296667}",$$
+0,Jack Doyle's Bar & Restaurant,"['240 W 35th St', 'New York, NY 10001']",sDajjybHSYFw8gTVbknPGA,4.0,331,"{'latitude': 40.752132, 'longitude': -73.991852}",$$
+1,Stan's Sports Bar,"['836 River Ave', 'Bronx, NY 10451']",_QA8vFYCzqICqssRZ_5lhQ,4.0,133,"{'latitude': 40.8268203, 'longitude': -73.9263982}",$$
+2,Stout -  Grand Central,"['60 E 41st St', 'New York, NY 10017']",35ezIH9BDHLY4XVQrxw6NA,3.5,224,"{'latitude': 40.751629629364615, 'longitude': -73.97886976560669}",$$
+3,Turnmill,"['119 E 27th St', 'New York, NY 10016']",bF2waGOCiiZ6L9AUA46Rsw,3.5,142,"{'latitude': 40.7424, 'longitude': -73.98356}",$$
+4,Amity Hall Uptown,"['982 Amsterdam Ave', 'New York, NY 10025']",yOPbrFZ2ZUsyQWsedP6gUg,4.0,208,"{'latitude': 40.80231, 'longitude': -73.96475}",$$
+5,Slainte Bar & Lounge,"['304 Bowery', 'New York, NY 10012']",RBkz0yuQfs_5ExPhL-6jpg,4.0,237,"{'latitude': 40.724811, 'longitude': -73.992832}",$$
+6,PJ Clarke's,"['44 W 63rd St', 'Lincoln Square', 'New York, NY 10023']",60_ONUWGij1TbvDHSEcOpQ,3.0,838,"{'latitude': 40.7713765, 'longitude': -73.9824758}",$$
+7,El Jefe Nyc,"['186 Dyckman St', 'New York, NY 10040']",bQwxyhOMb8TyzE6nMMk9mQ,2.5,95,"{'latitude': 40.864521982219, 'longitude': -73.9266331493855}",$$
+8,White Horse Tavern - Financial District,"['25 Bridge St', 'New York, NY 10004']",lHGQM__w1x5Dxiq3aRPCTQ,4.0,374,"{'latitude': 40.70372, 'longitude': -74.01237}",$
+9,Gantry Bar & Kitchen,"['47-02 Vernon Blvd', 'Long Island City, NY 11101']",njDA4ALbcnjLloNC_y0E9w,3.5,142,"{'latitude': 40.7453953419365, 'longitude': -73.9532279223204}",$$
+10,Brooklyn Ice House,"['318 Van Brunt St', 'Brooklyn, NY 11231']",Hc2KkfFWYnWYtL11_F40Ew,4.5,226,"{'latitude': 40.67919, 'longitude': -74.011099}",$
+11,Tom & Jerry's,"['288 Elizabeth St', 'New York, NY 10012']",iNJDjdm3C9pUTiEcSxOtCA,4.0,256,"{'latitude': 40.724617, 'longitude': -73.993156}",$$
+12,Clyde Fraziers Wine and Dine,"['485 10th Ave', 'New York, NY 10018']",ygl43IfAeM8X4XYlSTr90w,3.5,570,"{'latitude': 40.756784795428, 'longitude': -73.9979356060821}",$$
+13,Taproom No 307,"['307 3rd Ave', 'New York, NY 10010']",r0kjf2R2H0GMJm5Yj4AusA,3.5,498,"{'latitude': 40.738981, 'longitude': -73.98266}",$$
+14,Saluggi's East,"['399 Grand St', 'New York, NY 10002']",ECw0vk1IykU3QIX1okSXdA,3.5,106,"{'latitude': 40.715948062187, 'longitude': -73.9873785183775}",$$
+15,Carragher's Pub & Restaurant,"['228 W 39th St', 'New York, NY 10018']",7boggcCID7gVdNFQn4e8hQ,4.0,222,"{'latitude': 40.7561483754108, 'longitude': -73.9908477827673}",$$
+16,Lone Wolf,"['1089 Broadway', 'Brooklyn, NY 11221']",m1SprA3LBB5mL8QaH5GTew,4.0,101,"{'latitude': 40.694531, 'longitude': -73.930436}",$
+17,Jack's Fire Dept,"['39-46 Skillman Ave', 'Sunnyside, NY 11104']",KFNYlukrDsFBVA0qkXEduw,4.0,90,"{'latitude': 40.7470827, 'longitude': -73.923715}",$
+18,Amity Hall,"['80 W 3rd St', 'New York, NY 10012']",6FIzpXy82HBT3KZaiA38-Q,3.5,421,"{'latitude': 40.72963, 'longitude': -73.99892}",$$
+19,Brooklyn Public House,"['247 Dekalb Ave', 'Brooklyn, NY 11205']",LDwxXfapMw6xNbTF0YDFaQ,3.5,324,"{'latitude': 40.68958, 'longitude': -73.96939}",$$
+20,Cooper's Craft & Kitchen,"['87 2nd Ave', 'New York, NY 10003']",7Bb_IDWV_zJqpBjAvxuBIA,4.0,438,"{'latitude': 40.72704, 'longitude': -73.9892}",$$
+21,Mason Jar NYC,"['43 E 30th St', 'New York, NY 10016']",qjzkDnjT2sIa_8-uYaMYoA,3.5,442,"{'latitude': 40.74489, 'longitude': -73.98368}",$$
+22,FancyFree,"['71 Lafayette Ave', 'Brooklyn, NY 11217']",N1yHIKuKhvWsvH-lGkoCEw,4.0,14,"{'latitude': 40.687361, 'longitude': -73.975467}",
+23,Black Horse Pub,"['568 5th Ave', 'Brooklyn, NY 11215']",AMXOlur-z5DXBeyri9b-Hg,4.0,200,"{'latitude': 40.66518, 'longitude': -73.989997}",$$
+24,Third Avenue Ale House,"['1644 3rd Ave', 'New York, NY 10128']",xwdyPDcF1PifAiXyNnyA5Q,3.5,315,"{'latitude': 40.7828, 'longitude': -73.95129}",$$
+25,Mercury Bar,"['659 9th Ave', 'New York, NY 10036']",vU1_-GPs21FfCTWr80y0uw,3.5,427,"{'latitude': 40.7608736, 'longitude': -73.9911787}",$$
+26,Legends Bar & Grill,"['7104 35th Ave', 'Jackson Heights, NY 11372']",W3aQdTf2zob3_Bn-sqRLAg,4.0,107,"{'latitude': 40.750448, 'longitude': -73.89472}",$$
+27,Breakroom,"['83 Baxter St', 'New York, NY 10013']",MfbVI5reXLIIs8Cc2HwgQw,4.5,1609,"{'latitude': 40.7166907225542, 'longitude': -73.9999440120647}",$$
+28,Two 8 Two Bar & Burger,"['282 Atlantic Ave', 'Brooklyn, NY 11201']",xiEBdZ8z5KY21Vw2pY2fJQ,4.0,673,"{'latitude': 40.688536, 'longitude': -73.989728}",$$
+29,Blind Tiger Ale House,"['281 Bleecker St', 'New York, NY 10014']",PMp7WlHIXQUnej-Ds1jRfw,4.0,889,"{'latitude': 40.731926, 'longitude': -74.003223}",$$
+30,Houston Hall,"['222 W Houston St', 'New York, NY 10014']",U3TwPnfQ1aJuilUB-JnUNw,3.5,549,"{'latitude': 40.72866, 'longitude': -74.00472}",$$
+31,Bases Loaded,"['2997 Westchester Ave', 'Bronx, NY 10461']",1at1CAz-O171bJkmZ_1EaA,4.5,14,"{'latitude': 40.84733, 'longitude': -73.83224}",$
+32,American Trash,"['1471 1st Ave', 'New York, NY 10021']",YnOLKAOE09BcsoU61ExlkA,3.5,111,"{'latitude': 40.77091, 'longitude': -73.95409}",$
+33,Bravest,"['700 2nd Ave', 'New York, NY 10016']",gosjtZsjmPTIBY4eB4qD2Q,4.0,194,"{'latitude': 40.747115, 'longitude': -73.973961}",$$
+34,Kelly's Pub,"['13611 41st Ave', 'Flushing, NY 11355']",rZgTvfxDIsjbZ3ubJdzElw,4.0,37,"{'latitude': 40.7588099, 'longitude': -73.8290899}",$
+35,Nutty Sports Bar & Grill,"['105-06 Jamaica Ave', 'Richmond Hill, NY 11418']",fiIx-m0EB91ePwVprXkvLg,4.5,3,"{'latitude': 40.695023, 'longitude': -73.841673}",
+36,The Kettle Black,"['8622 3rd Ave', 'Brooklyn, NY 11209']",X4YuMX1KgFxIc3pNkRDBZA,3.5,396,"{'latitude': 40.6229, 'longitude': -74.03159}",$$
+37,The Gin Mill,"['442 Amsterdam Ave', 'New York, NY 10024']",xGegODk2DyGam3n03Wk1fg,3.5,401,"{'latitude': 40.7847, 'longitude': -73.97741}",$$
+38,Inwood Bar and Grill,"['4892 Broadway', 'New York, NY 10034']",DCjRqV6kRPU0h-MaRRcVrQ,3.5,478,"{'latitude': 40.867068, 'longitude': -73.922459}",$$
+39,North Pole Pub,"['428 Bergen St', 'Brooklyn, NY 11217']",uVimnyjMcc7MOGzd2NRX-w,5.0,42,"{'latitude': 40.68154, 'longitude': -73.9774}",$$
+40,The Dead Poet,"['450 Amsterdam Ave', 'New York, NY 10024']",bkIMbvXOcztDVz8bpyhMzQ,4.0,434,"{'latitude': 40.78499, 'longitude': -73.97735}",$$
+41,Pat's Sports Bar,"['7313 Metropolitan Ave', 'Middle Village, NY 11379']",4I4vMGN47CmnvG8YmRK7Qg,4.5,13,"{'latitude': 40.7128967, 'longitude': -73.8788221}",$
+42,Sweet Spot,"['2272 31st St', 'Astoria, NY 11105']",S0YxOutCTnZwS0-L1lGoyg,3.5,309,"{'latitude': 40.7747291, 'longitude': -73.9124026}",$$
+43,Old Stanley's,"['226 Wyckoff Ave', 'Brooklyn, NY 11237']",qJOkS_t5FcNur2EkAb6u1A,4.0,68,"{'latitude': 40.700852, 'longitude': -73.914041}",$
+44,Moot Bar,"['579 Myrtle Ave', 'Brooklyn, NY 11205']",TE87BLxClCcIg62i0xVgMg,4.5,42,"{'latitude': 40.6941986, 'longitude': -73.9609604}",$
+45,The Chester,"['18 9th Ave', 'New York, NY 10014']",dadH6POPTxSGzLGQR93rIw,3.0,286,"{'latitude': 40.7398532, 'longitude': -74.0057335}",$$
+46,The Crisis Bar,"['913 Broadway', 'Brooklyn, NY 11206']",exn0GUwgqcZ3QdFbfmo3Eg,4.5,20,"{'latitude': 40.697827, 'longitude': -73.93623}",$$
+47,"Floyd, NY","['131 Atlantic Ave', 'Brooklyn, NY 11201']",YL1LxYufuwX5sq4RwW-2Gw,4.0,210,"{'latitude': 40.6907799, 'longitude': -73.9957}",$
+48,Public House,"['140 E 41st St', 'New York, NY 10017']",13Y2x5Yzui2Df8Sg9ktHYQ,3.0,570,"{'latitude': 40.7504856, 'longitude': -73.976214}",$$
+49,Northern Bell,"['612 Metropolitan Ave', 'Brooklyn, NY 11211']",W8flNX3SneJlQBQt7C9Q9w,4.0,287,"{'latitude': 40.71389, 'longitude': -73.94855}",$$
+0,Draught 55,"['245 E 55th St', 'New York, NY 10022']",b2naaHiaR57Hm6JZG0njPg,4.0,371,"{'latitude': 40.758377, 'longitude': -73.966515}",$$
+1,Salty Dog Bar and Restaurant,"['7509 3rd Ave', 'Brooklyn, NY 11209']",bEadv-XnsYa5IaBD_VcHfA,3.5,267,"{'latitude': 40.631083, 'longitude': -74.027611}",$$
+2,3rd & 7,"['3622 Quentin Rd', 'Brooklyn, NY 11234']",enbGceHhbBWe4cgMSePd1g,3.5,78,"{'latitude': 40.61497, 'longitude': -73.93606}",$$
+3,123 Burger Shot Beer,"['738 10th Ave', 'New York, NY 10019']",CkqOdX64U7DrRvnfh_5HnQ,3.0,1065,"{'latitude': 40.764828, 'longitude': -73.9914}",$
+4,Hibernia Bar,"['401 W 50th St', 'New York, NY 10019']",kortq9GFNGvV4ky_rVf88g,4.5,170,"{'latitude': 40.76365, 'longitude': -73.9890999}",$$
+5,12th Street Ale House,"['192 2nd Ave', 'New York, NY 10003']",EAL8nOew178pq56MnAaLOw,4.0,136,"{'latitude': 40.7310549788367, 'longitude': -73.9857779396906}",$
+6,Royale,"['157 Ave C', 'New York, NY 10009']",FCqKzOUM6DAxjU_xkXdhzg,4.0,484,"{'latitude': 40.7258174842573, 'longitude': -73.9778455564146}",$$
+7,East River Bar,"['97 S 6th St', 'Brooklyn, NY 11211']",8jurzw-RyloFCYpuGXdzFA,3.5,83,"{'latitude': 40.7109413146973, 'longitude': -73.9646453857422}",$
+8,Bluebird,"['504 Flatbush Ave', 'Brooklyn, NY 11225']",J2l2NeFmAKQPZarkMC9Ryw,3.5,156,"{'latitude': 40.66182, 'longitude': -73.96174}",$$
+9,Leo’s Restaurant and Sports Bar,"['84-19 Roosevelt Ave', 'Jackson Heights, NY 11372']",QLdRbr_1O6nVPDGucl9yeg,4.0,11,"{'latitude': 40.7481632, 'longitude': -73.8814681}",
+10,Bodega 88,"['573 Columbus Ave', 'New York, NY 10024']",3vBVnzsJLRh8WtW3awKxeQ,4.5,184,"{'latitude': 40.7875358759796, 'longitude': -73.9711353555322}",$$
+11,Barfly NY,"['244 3rd Ave', 'New York, NY 10010']",XpSVrJTLu9BFBy2_LFqIiA,4.0,136,"{'latitude': 40.73717, 'longitude': -73.98459}",$$
+12,Barrow's Pub,"['463 Hudson St', 'New York, NY 10014']",zFsHytbNoniBsPvwpXQxwg,4.0,47,"{'latitude': 40.73158, 'longitude': -74.00691}",$$
+13,The Halfway Line,"['59-10 Woodside Ave', 'Woodside, NY 11377']",S4OMoVZwjIaKXs45ILt6AQ,4.0,6,"{'latitude': 40.745151, 'longitude': -73.9052986}",$
+14,Bronx Alehouse,"['216 W 238th St', 'Bronx, NY 10463']",ciHt5n5rmpby1YcC_6JVrg,4.0,822,"{'latitude': 40.8847016520226, 'longitude': -73.8994980779851}",$$
+15,Bierhaus NYC,"['712 3rd Ave', 'New York, NY 10017']",-2aMphgYYnoxncuZ7xI3Gw,3.5,877,"{'latitude': 40.75261, 'longitude': -73.97342}",$$
+16,773 Lounge,"['773 Coney Island Ave', 'Brooklyn, NY 11218']",EdXfzD89c9tkfbIGUwI7Gg,4.0,64,"{'latitude': 40.6386879, 'longitude': -73.9684367}",$
+17,The Ridgewood Ale House,"['5738 Myrtle Ave', 'Ridgewood, NY 11385']",LuwgaxEM5ObSWMAsEVzPlg,3.0,190,"{'latitude': 40.700279, 'longitude': -73.902197}",$$
+18,The Flying Cock,"['497 3rd Ave', 'New York, NY 10016']",IGZkGbwE36iE1yaDW5NNKA,4.0,604,"{'latitude': 40.745296, 'longitude': -73.978073}",$$
+19,Bounce Sporting Club,"['55 W 21st St', 'New York, NY 10010']",K54H8wyxGjeFVHjHF9LvMg,2.0,385,"{'latitude': 40.7415466, 'longitude': -73.9932351}",$$
+20,Stout NYC,"['133 W 33rd St', 'New York, NY 10001']",NMuZQuK6UU32VlSF6khh0w,3.5,942,"{'latitude': 40.74989, 'longitude': -73.9898}",$$
+21,Pig Beach,"['480 Union St', 'Brooklyn, NY 11231']",Zzvqc7XcyGVX5bnjGN9IXA,4.0,601,"{'latitude': 40.6792941479875, 'longitude': -73.9880264255794}",$$
+22,Stadium Sports Bar,"['113-115 E 157th St', 'Bronx, NY 10451']",7SejPQQCFX63LvHFSgM6OQ,4.5,9,"{'latitude': 40.82559, 'longitude': -73.92647}",$
+23,Long Acre Tavern,"['146 W 47th St', 'New York, NY 10036']",EqraPrrv6gAedeVogvt8xw,4.5,33,"{'latitude': 40.7587089592894, 'longitude': -73.9836531096067}",$$
+24,THE HUNTRESS whiskey n' wings,"['24-03 41st Ave', 'Long island City, NY 11101']",1o7Z7uqwGfXmHnUZxW48Ug,4.0,164,"{'latitude': 40.7525625982243, 'longitude': -73.9395872725611}",$$
+25,Boobie Trap,"['308 Bleecker St', 'Brooklyn, NY 11237']",SBkebBPuX2mRUQ9VaQ91NQ,4.0,273,"{'latitude': 40.7003517876193, 'longitude': -73.9161294247438}",$
+26,Grill On the Hill,"['1624 Amsterdam Ave', 'New York, NY 10031']",GhMq3ymAsy1-QcixIY7mYg,3.5,174,"{'latitude': 40.8222280483202, 'longitude': -73.9499790674583}",$$
+27,Tavern29,"['47 E 29th St', 'New York, NY 10016']",NTwOc9yQ1xl5deeVzZqxfw,4.0,939,"{'latitude': 40.74431, 'longitude': -73.98394}",$$
+28,George Keeley,"['485 Amsterdam Ave', 'New York, NY 10024']",3004g82RXwKoqaenSqBVEg,4.0,323,"{'latitude': 40.7858376, 'longitude': -73.975986}",$$
+29,Bierocracy,"['12-23 Jackson Ave', 'Long Island City, NY 11101']",5grFfuYswh8K9GoEnOy81A,4.0,313,"{'latitude': 40.74402, 'longitude': -73.95028}",$$
+30,Highbury Pub,"['1002 Cortelyou Rd', 'New York, NY 11218']",a6SohDhpzfj4wib1ix8rxg,3.5,56,"{'latitude': 40.639049, 'longitude': -73.968495}",$$
+31,O'hanlon's,"['349 E 14th St', 'New York, NY 10003']",ANdBGjVCBxMA01QQOzNu6Q,4.0,95,"{'latitude': 40.7316597, 'longitude': -73.9829479}",$
+32,SideBAR,"['118 E 15th St', 'New York, NY 10003']",xwdL7dreL8DvpqTXaPZmAg,2.5,458,"{'latitude': 40.73467, 'longitude': -73.98859}",$$
+33,Alley Pond Sports Bar & Grill,"['232-01 Northern Blvd', 'Douglaston, NY 11362']",9yORP4XLlAzMI42Ug0pgUw,3.5,75,"{'latitude': 40.764199, 'longitude': -73.749142}",$$
+34,Woodrow's,"['43 Murray St', 'New York, NY 10007']",j8DFd-bxnvM_UfHnDLIA0g,4.0,333,"{'latitude': 40.7141113, 'longitude': -74.009201}",$$
+35,Forest Hills Station House,"['106-11 71st Ave', 'Forest Hills, NY 11375']",NVp1S29NLR573Lc4ZvICKw,4.0,1138,"{'latitude': 40.720035691092825, 'longitude': -73.84509507330708}",$$
+36,Brooklyn Burgers & Beer,"['259 5th Ave', 'Brooklyn, NY 11215']",-0bdnX762vdTb9lI00etvA,4.0,374,"{'latitude': 40.6743507, 'longitude': -73.9815826}",$$
+37,Side Door,"['151 E 57th St', 'New York, NY 10022']",J5XNBZyUwgNQjllwJZG3Lg,4.5,7,"{'latitude': 40.760863, 'longitude': -73.968251}",
+38,Albion,"['575 2nd Ave', 'New York, NY 10016']",F3-DYH9YMa3UEUaedhGocw,4.5,108,"{'latitude': 40.74336, 'longitude': -73.97733}",$$
+39,Emerald Inn,"['250 W 72nd St', 'New York, NY 10023']",VD-lSpd2zpWjTR6rUNr1JA,3.5,78,"{'latitude': 40.7792, 'longitude': -73.98381}",$$
+40,Pregame Sports Bar & Lounge,"['17823 Hillside Ave', 'Jamaica, NY 11432']",0eG1Qw89iBo1FGhbO7KfaQ,4.5,4,"{'latitude': 40.7124795, 'longitude': -73.7850803}",$
+41,The Double Windsor,"['210 Prospect Park W', 'Brooklyn, NY 11215']",xd7ioU33jkwx0hQ3kUNIOg,4.0,422,"{'latitude': 40.66063, 'longitude': -73.98056}",$$
+42,Hangar 11 Bar & Grill,"['119-11 Metropolitan Ave', 'Kew Gardens, NY 11415']",iQZYOzNB7b-vTF806dlbYA,3.5,158,"{'latitude': 40.7061098292587, 'longitude': -73.8311260566115}",$$
+43,Tryon Public House,"['4740 Broadway', 'New York, NY 10040']",ykXZyQBXxoOMoZfaZMnHmg,4.0,394,"{'latitude': 40.8649821372469, 'longitude': -73.927843119049}",$$
+44,Dive Bar,"['732 Amsterdam Ave', 'New York, NY 10025']",ubjgMch7fGLJNW60M2xilg,4.0,463,"{'latitude': 40.793975, 'longitude': -73.970809}",$$
+45,The Courtyard Ale House,"['4018 Queens Blvd', 'Sunnyside, NY 11104']",Py2_8uFX5UHLphwdEEop9A,4.0,86,"{'latitude': 40.74331, 'longitude': -73.92368}",$
+46,Eddies Sports Lounge,"['40 Marcy Ave', 'Brooklyn, NY 11211']",03-k6KZPKl1NbAVSsLyorA,3.0,6,"{'latitude': 40.712866, 'longitude': -73.955226}",$$
+47,Jake's Saloon,"['202 9th Ave', 'New York, NY 10011']",DP7fNXSo4bwYXcj4jllXxg,2.5,43,"{'latitude': 40.74592, 'longitude': -74.00134}",$$
+48,Paddy's of Park Slope,"['273 13th St', 'Brooklyn, NY 11215']",eN3h8d2xFU5PeUA7dwlqnA,4.5,21,"{'latitude': 40.66668, 'longitude': -73.98785}",$
+49,Grey Bar & Restaurant,"['43 W 26th St', 'New York, NY 10010']",vhaiRIPLJsuKWpK8M4QIMQ,3.5,125,"{'latitude': 40.7445535, 'longitude': -73.9905128}",$$
+0,Cobblestones Pub and Biergarten,"['11718 Queens Blvd', 'Forest Hills, NY 11375']",Xkz2uUnAM2ckYIUqxI0NPw,3.5,264,"{'latitude': 40.7150622, 'longitude': -73.8327231}",$$
+1,Griff's Place,"['704 New Dorp Ln', 'New Dorp Beach, NY 10306']",eMMF_kyHQIrX_An67wYcpA,4.5,60,"{'latitude': 40.5656772, 'longitude': -74.100421}",$$
+2,Stout,"['109 W 39th St', 'New York, NY 10018']",OmVjYfqXQ1VmA4gyZ1euWg,5.0,1,"{'latitude': 40.75346, 'longitude': -73.98589}",
+3,Overlook,"['225 E 44th St', 'New York, NY 10017']",4wVaJsvTuBTXAMzkhjwccg,3.5,264,"{'latitude': 40.751771, 'longitude': -73.972199}",$$
+4,Cock & Bull,"['23 W 45th St', 'New York, NY 10036']",OxqUWRZFUOz3r6_4bh4mfg,4.0,544,"{'latitude': 40.7560908823673, 'longitude': -73.9804858350908}",$$
+5,The Spring Lounge,"['48 Spring St', 'New York, NY 10012']",XZBxx5rdGBBnT2RPSdV8EQ,3.5,247,"{'latitude': 40.7219399, 'longitude': -73.99642}",$$
+6,The Supply House,"['1647 2nd Ave', 'New York, NY 10028']",eGfpa9r0aGtN3V8ZwgaOEw,4.0,351,"{'latitude': 40.7775579, 'longitude': -73.9521892}",$$
+7,Ketch Brewhouse,"['6 Platt St', 'New York, NY 10038']",93C1xqdTGHyGtoZ9vwn3KA,3.0,86,"{'latitude': 40.7073900260528, 'longitude': -74.0063956752419}",$$
+8,Tiltz Sports Bar,"['942 Flushing Ave', 'Brooklyn, NY 11206']",A9erHyMSOxjyjVOLWjvVCQ,4.0,103,"{'latitude': 40.7027, 'longitude': -73.9336}",
+9,Ampersand,"['294 3rd Ave', 'New York, NY 10010']",ePqKbqXFBCbwBaWiN2Jo9w,4.5,222,"{'latitude': 40.7386178790617, 'longitude': -73.9834206895483}",$$
+10,The Press Box,"['932 2nd Ave', 'New York, NY 10022']",ksIdLk_H9yRBTpOymReR2Q,3.5,124,"{'latitude': 40.75446, 'longitude': -73.96843}",$$
+11,Twist and Smash'd Sports,"['34-02 Steinway St', 'Long Island City, NY 11101']",HVqNT7EROzfPkzUc1yFkwQ,3.0,291,"{'latitude': 40.7566212834115, 'longitude': -73.921242}",$$
+12,The Whiskey on Grand,"['524 Grand St', 'Brooklyn, NY 11211']",GYdwGPsfXuJ_ZablxsP7CQ,4.0,45,"{'latitude': 40.7109427935129, 'longitude': -73.9503494722379}",$$
+13,Brooklyn Jazz + Sports Club,"['3523 Church Ave', 'Brooklyn, NY 11203']",_PCJ7mTFAs3a41llQ7bYyw,5.0,4,"{'latitude': 40.6511819989557, 'longitude': -73.9438980634513}",$$
+14,Barrow Street Ale House,"['15 Barrow St', 'New York, NY 10014']",LAq0KHNgGpOHVp_uGpEgWg,3.0,190,"{'latitude': 40.732647, 'longitude': -74.002529}",$$
+15,Berry Park,"['4 Berry St', 'Brooklyn, NY 11211']",DMOwfdP0Va1QI_KNefD8kg,3.5,674,"{'latitude': 40.7224719, 'longitude': -73.9552526}",$$
+16,Bulls Eye Sports Pub,"['2073 Flatbush Ave', 'Brooklyn, NY 11234']",0ts6LQlnZYUhpMD0x6gA-g,4.0,15,"{'latitude': 40.61951, 'longitude': -73.93322}",$
+17,Phebe's,"['359 Bowery', 'New York, NY 10003']",pffG9Ciyks5Xik7opl2bEw,3.5,581,"{'latitude': 40.72681, 'longitude': -73.9912901}",$$
+18,Soccer Tavern,"['6004 8th Ave', 'Brooklyn, NY 11220']",2I9PQUYfevd27rl3BtfWEg,4.5,32,"{'latitude': 40.63547, 'longitude': -74.0099}",$
+19,Broome Street Bar,"['363 W Broadway', 'New York, NY 10013']",t9m2CumYaktkVO1hs_I4Jw,3.5,255,"{'latitude': 40.723074, 'longitude': -74.002971}",$$
+20,The Waylon,"['736 10th Ave', 'New York, NY 10019']",rvabT9eHrKFKgfNPrp69Zw,4.5,117,"{'latitude': 40.7650840967709, 'longitude': -73.9918056894333}",$$
+21,Rookies Sports Bar And Grill S.I.,"['1547 Arthur Kill Rd', 'Arden Heights, NY 10312']",QwEqWAJhZ6oqycqjwZ1WMA,3.0,29,"{'latitude': 40.5626937, 'longitude': -74.1910732}",
+22,Bedford Falls,"['206 E 67th St', 'New York, NY 10065']",CEOm_NF7EeDZR4ozRZvCSg,4.0,102,"{'latitude': 40.7661503, 'longitude': -73.9625243}",$$
+23,Off The Wagon,"['109 Macdougal St', 'New York, NY 10012']",tR46H5rE6Z56oqGRKTLu8A,3.5,638,"{'latitude': 40.72993, 'longitude': -74.00082}",$$
+24,Man Overboard Sports Bar and Grill,"['247 City Island Ave', 'Bronx, NY 10464']",1k_yiPpksSmleV3pGrlEvQ,5.0,1,"{'latitude': 40.845414, 'longitude': -73.785944}",
+25,Donnybrook,"['35 Clinton St', 'New York, NY 10002']",RzJQl1yBIRd_uRq0jHlP8Q,3.5,164,"{'latitude': 40.7201891322304, 'longitude': -73.9846226613423}",$$
+26,Billy's Sports Bar,"['856 River Ave', 'Bronx, NY 10451']",3PBIlJRNjeJrbA8sn99EGw,2.5,146,"{'latitude': 40.8273327, 'longitude': -73.926092}",$$
+27,Jakes Dilemma,"['430 Amsterdam Ave', 'New York, NY 10024']",6XOHtRjdsityvdY0LniKyA,3.5,470,"{'latitude': 40.78438, 'longitude': -73.97782}",$$
+28,Fools Gold NYC,"['145 E Houston St', 'New York, NY 10002']",JagEH-imezk2KbM3RNDbXg,4.0,319,"{'latitude': 40.7231079, 'longitude': -73.9897536}",$$
+29,Bayard's Ale House,"['533 Hudson St', 'New York, NY 10014']",djK5sn1L7F2Q2id16Jn2Bw,3.5,163,"{'latitude': 40.73431, 'longitude': -74.0063799}",$$
+30,Lake Street,"['706 Manhattan Ave', 'Brooklyn, NY 11222']",IQRvQAKGMCo6hDbtsB2M1g,3.5,54,"{'latitude': 40.7257358, 'longitude': -73.9517007}",$$
+31,Hollow Nickel,"['494 Atlantic Ave', 'Brooklyn, NY 11217']",F-AfJgFrxNbn49Mp4l7aXg,4.0,217,"{'latitude': 40.685512, 'longitude': -73.981986}",$$
+32,West End Bar & Grill,"['813 8th Ave', 'New York, NY 10019']",IiIzeFqe4tJiHaAWyw7ddg,4.0,390,"{'latitude': 40.7615693, 'longitude': -73.9867747}",$$
+33,Bar Great Harry,"['280 Smith St', 'Brooklyn, NY 11231']",IPrNgaXjtEJrb8vWA3si1g,4.0,208,"{'latitude': 40.682437, 'longitude': -73.993598}",$$
+34,Hudson Yards Grill,"['20 Hudson Yards', 'Fl 4', 'New York, NY 10001']",esqICCGgA28y8Cg-l6mPZQ,3.0,150,"{'latitude': 40.7533572, 'longitude': -74.0002527}",$$$
+35,Zablozki's,"['107 N 6th St', 'Brooklyn, NY 11211']",yaD4coYkCLtq6sn3692CRw,4.0,152,"{'latitude': 40.7183462871818, 'longitude': -73.9599883275391}",$
+36,Dan and John's Wings,"['90 Kent Ave', 'Williamsburg, NY 11211']",gAbtfsSUWyfIji7iF8uuMA,4.5,33,"{'latitude': 40.7209491127924, 'longitude': -73.9621985381286}",$$
+37,The Irish American,"['17 John St', 'New York, NY 10038']",FgsN_18sk15FcTnYY3Ghjg,4.0,296,"{'latitude': 40.71015, 'longitude': -74.008781}",$$
+38,Stone Street Tavern,"['52 Stone St', 'New York, NY 10004']",NA_p2AH5RSBV314bklZn_g,3.5,442,"{'latitude': 40.7043685019016, 'longitude': -74.0102007240057}",$$
+39,Rhythm & Booze,"['1674 10th Ave', 'Brooklyn, NY 11215']",UuZkzlLVeeyvBA9DwVsZOA,4.0,72,"{'latitude': 40.65773, 'longitude': -73.97964}",$$
+40,The Gibson,"['108 Bedford Ave', 'Corner of N. 11th Street', 'Brooklyn, NY 11211']",FWpxFElwWgWbwrSTXDWZZw,4.0,94,"{'latitude': 40.720268, 'longitude': -73.955467}",$$
+41,The Local,"['41-04 31st Ave', 'Astoria, NY 11103']",--YBn9-xi4YocUK6VvCKqQ,4.5,56,"{'latitude': 40.7607294903307, 'longitude': -73.9162476360798}",$
+42,Shorty's,"['576 9th Ave', 'New York, NY 10036']",N4q6Y9cpvUbJ3O5rydrSbQ,4.0,699,"{'latitude': 40.758103, 'longitude': -73.992529}",$$
+43,95 South Soul Food,"['778 Franklin Ave', 'Brooklyn, NY 11238']",Td8KkN9rO49wf9G5IT2OaA,3.0,139,"{'latitude': 40.671931, 'longitude': -73.957784}",$$
+44,Teddy's Bar & Grill,"['96 Berry St', 'Brooklyn, NY 11249']",64SxMs06-IJSc2I-YsnDTQ,3.5,356,"{'latitude': 40.7193481, 'longitude': -73.9585056}",$$
+45,Tipsy NoMad,"['37 E 28th St', 'New York, NY 10016']",fAu6e8uCg1lfqIQ1PKNZyA,4.5,18,"{'latitude': 40.743772, 'longitude': -73.984627}",
+46,Russian Baths on Neck Road,"['1200 Gravesend Neck Rd', 'Brooklyn, NY 11229']",moK8qANVn1gQcF-fnPRnWg,4.0,62,"{'latitude': 40.59424, 'longitude': -73.95788}",$$
+47,Blackwells Pub And Restaurant,"['150 E 47th St', 'New York, NY 10017']",mp7YQdBWIHqmJoZlr-K32g,4.0,104,"{'latitude': 40.7541938, 'longitude': -73.9730946}",$$
+48,21 Bar,"['4318 Broadway', 'New York, NY 10033']",8xy2_nCRHDlnvBnF6UyiIw,4.0,16,"{'latitude': 40.85192, 'longitude': -73.93464}",$
+49,Down the Hatch,"['179 W 4th St', 'New York, NY 10014']",_owMBYfzT9dO7FXGXXzXqA,3.5,562,"{'latitude': 40.73247, 'longitude': -74.00163}",$$
+0,Carlow East,"['1254 Lexington Ave', 'New York, NY 10028']",XRK6bTyINWS1stlmCbxiYA,3.5,92,"{'latitude': 40.778689023197, 'longitude': -73.9562473565979}",$$
+1,Kilo Bravo,"['180 N 10th St', 'Brooklyn, NY 11211']",1WWG2t_9RnAJnMPqqTqZ8A,4.0,42,"{'latitude': 40.718884, 'longitude': -73.955421}",$
+2,J.G. Melon,"['1291 3rd Ave', 'New York, NY 10021']",77EedCTJY1biWIYSzAulCQ,3.5,1319,"{'latitude': 40.77105, 'longitude': -73.95931}",$$
+3,Uncle Barry's,"['58 5th Ave', 'Brooklyn, NY 11217']",x41gFmTksra32RdYFjOPHQ,4.0,123,"{'latitude': 40.6812759, 'longitude': -73.9773854}",$$
+4,PJ Leahy's,"['5002 Vernon Blvd', 'Long Island City, NY 11101']",33SyxCFwGOK_ws-05W_-lA,3.5,68,"{'latitude': 40.742645, 'longitude': -73.954452}",$$
+5,That Bar,"['47 5th Ave', 'Brooklyn, NY 11217']",CJpBLfB3csuC0ZVQYaqbtQ,4.0,32,"{'latitude': 40.6813421554003, 'longitude': -73.9769475638237}",$$
+6,Cornerstone Tavern,"['961 2nd Ave', 'New York, NY 10022']",Fyrw-Vcs9krhRx7pGrPdtQ,3.5,269,"{'latitude': 40.755612, 'longitude': -73.968301}",$$
+7,Brik Astoria,"['32-16 Steinway St', 'Astoria, NY 11103']",5aMOBYHFqogEunt9gBxQvw,3.5,207,"{'latitude': 40.75859, 'longitude': -73.91963}",$$
+8,Corner Social,"['321 Malcolm X Blvd', 'New York, NY 10027']",Z8pm4rLTBki7OLgtbcTXEg,3.5,1094,"{'latitude': 40.8085637, 'longitude': -73.9450228}",$$
+9,The District,"['1679 3rd Ave', 'New York, NY 10128']",R9XDds0a1_jip3glIdlQsg,3.0,363,"{'latitude': 40.783851, 'longitude': -73.949892}",$$
+10,CJ's Bar and Lounge,"['137-09 Crossbay Blvd', 'Ozone Park, NY 11417']",EfCZ79gw5KdgW5zJzj8-2Q,3.5,61,"{'latitude': 40.671865, 'longitude': -73.84275}",$$
+11,White Oak Tavern,"['21 Waverly Pl', 'New York, NY 10003']",mVN2G1c5bRtAsNlr2Tbx6Q,4.0,359,"{'latitude': 40.73036, 'longitude': -73.99462}",$$
+12,99 Rogers,"['99 Rogers Ave', 'Crown Heights, NY 11216']",g0ELjSBBNR3YMDa1I8l1AQ,4.0,111,"{'latitude': 40.67427, 'longitude': -73.95268}",$$
+13,Arts and Crafts Beer Parlor,"['26 W 8th St', 'New York, NY 10011']",7sQYI_Ym9RzlxHIhJpj6hg,4.5,251,"{'latitude': 40.7327283010334, 'longitude': -73.9977158235951}",$$
+14,Loreley Beer Garden,"['7 Rivington St', 'New York, NY 10002']",K_e7_aNgghFLZ2zvjFSNkQ,3.5,759,"{'latitude': 40.7212291, 'longitude': -73.992872}",$$
+15,Pig n Whistle,"['202 W 36th St', 'New York, NY 10018']",nkT08Tewf6TLaysiuiF8Ow,3.0,198,"{'latitude': 40.7523995, 'longitude': -73.9901114}",$$
+16,The Keg Room,"['53 W 36th St', 'New York, NY 10018']",gRInJiXyp2qO3dW7Y9iqkg,3.5,363,"{'latitude': 40.75083806780308, 'longitude': -73.98589488118887}",$$
+17,Club House Sports Bar,"['6121 Fresh Pond Rd', 'Middle Village, NY 11379']",OkZc7O3PatlWqDkush0LNg,4.0,8,"{'latitude': 40.714025, 'longitude': -73.900734}",$
+18,Fort Washington Public House,"['3938 Broadway', 'New York, NY 10032']",n4m37Dm2Y5MUPF_dFGG_ww,4.0,74,"{'latitude': 40.8390591026124, 'longitude': -73.9410637691617}",$$
+19,The Bronx Public,"['170 W 231st St', 'Bronx, NY 10463']",KAxYFGyOQ7ysCmYmh8jKtw,4.0,495,"{'latitude': 40.87827, 'longitude': -73.90341}",$$
+20,Granny Annie’s Bar And Kitchen,"['425 Main St', 'New York, NY 10044']",FwnEoJ4Xl5_5byVLhmxzoQ,4.0,14,"{'latitude': 40.7586428180471, 'longitude': -73.9528506830577}",
+21,Krush,"['2 W 32nd St', 'Fl 4', 'New York, NY 10001']",leYx3XTNEDLn9ezoXjlA5g,3.5,202,"{'latitude': 40.747204, 'longitude': -73.986198}",$$
+22,First Stop Bar & Grill,"['27-08 Queens Plz S', 'Long Island City, NY 11101']",G5vloUoIkEkR80qVY8O4-A,2.5,12,"{'latitude': 40.7497616, 'longitude': -73.9391948}",$
+23,One Star,"['147 W 24th St', 'New York, NY 10011']",QKiVXF-Y1IK_NkRfvtY4sQ,4.0,153,"{'latitude': 40.7445145622588, 'longitude': -73.9940418298492}",$
+24,43 Bar & Grill,"['4306 43rd St', 'Sunnyside, NY 11104']",s52N3knXzElVWp473q08aQ,3.5,264,"{'latitude': 40.7450115, 'longitude': -73.9213429}",$$
+25,Set LES,"['127 Ludlow St', 'New York, NY 10002']",4hukJNoy9F2ILYJZWl4Xlw,4.0,475,"{'latitude': 40.7198495417833, 'longitude': -73.9885318279266}",$$
+26,Brewski's,"['3718 E Tremont Ave', 'Bronx, NY 10465']",DmOxYVMsPfAhA3iXS15mJA,3.5,121,"{'latitude': 40.8265599, 'longitude': -73.8224469}",$$
+27,Watermark,"['Pier 15, 78 S St', 'New York, NY 10038']",jEEb_EKKD2lx2mvTly_U6Q,3.0,259,"{'latitude': 40.7043789539783, 'longitude': -74.0029934983643}",$$
+28,The Highwood,"['500 Ave At Port Imperial', 'Weehawken, NJ 07086']",BXY0ZV3dNopEU1jphLEQrA,4.0,67,"{'latitude': 40.77683348001929, 'longitude': -74.0116246417165}",
+29,Black Bear Bar & Grill,"['205 Washington St', 'Hoboken, NJ 07030']",cq3QvbtK1B9Cxa15iyK56g,3.0,365,"{'latitude': 40.73889593901596, 'longitude': -74.0299869969242}",$$
+30,El Potrero Sports Bar,"['4612 Greenpoint Ave', 'Sunnyside, NY 11104']",TYqdJUhs6GJGnqLKAE9kRA,1.0,1,"{'latitude': 40.742208, 'longitude': -73.918203}",
+31,Whiskey Trader,"['71 W 55th St', 'New York, NY 10019']",UngCZMRpPmmyGJvuVrTswg,3.5,213,"{'latitude': 40.76288, 'longitude': -73.97752}",$$
+32,Scruffy Duffy's,"['639 10th Ave', 'New York, NY 10036']",8bia-R_OFOEN-tJEdhWPKg,4.5,13,"{'latitude': 40.76179, 'longitude': -73.99412}",$$
+33,The Brooklyn Brewery,"['79 N 11th St', 'Brooklyn, NY 11211']",oFDKXoHhSBQgDGjADLfQEg,4.0,991,"{'latitude': 40.721636270191, 'longitude': -73.9576329544152}",$$
+34,Yankee Tavern,"['72 E 161st St', 'Bronx, NY 10451']",0PNqgljlrf1J3gCPY5NP8A,3.5,101,"{'latitude': 40.8273023, 'longitude': -73.9252554}",$$
+35,The Tippler,"['425 W 15th St', 'New York, NY 10011']",-egltOQhAdo1kWlPSJfmvA,4.0,674,"{'latitude': 40.7423540864346, 'longitude': -74.0063398693085}",$$
+36,Boxers,"['37 W 20th St', 'New York, NY 10011']",lUhkHUX-GTRovbMn0lc6ZA,3.0,222,"{'latitude': 40.74072, 'longitude': -73.99318}",$$
+37,The Winslow Gin House And Eatery,"['243 E 14th St', 'New York, NY 10003']",3NbhYebjZPjLTWZZyRuhsw,4.5,541,"{'latitude': 40.7327766418457, 'longitude': -73.9852142333984}",$$
+38,Foxy Johns Bar & Kitchen,"['143 E 47th St', 'New York, NY 10017']",T-ciFE0hc6O2JDY8Y1cDgg,4.0,296,"{'latitude': 40.75445, 'longitude': -73.97274}",$$
+39,Cooper's Craft & Kitchen,"['169 8th Ave', 'New York, NY 10011']",Li52Rr6BM4bGNYdpn7H8_w,4.0,382,"{'latitude': 40.742702, 'longitude': -74.000778}",$$
+40,Prospect Bar & Grill,"['545 5th Ave', 'Brooklyn, NY 11215']",Kgf2O5qRqSpPv8E346J8jQ,4.0,153,"{'latitude': 40.665832, 'longitude': -73.988916}",$$
+41,Walsh's Pub,"['6867 Fresh Pond Rd', 'Queens, NY 11385']",Y4XUTOcEiX68LuPpD64zDA,5.0,2,"{'latitude': 40.703505, 'longitude': -73.895196}",
+42,Park Avenue Tavern,"['99 Park Ave', 'New York, NY 10016']",LHxZgTddXIp_S1sL3nNG9w,4.0,794,"{'latitude': 40.75031, 'longitude': -73.9783999}",$$
+43,Astoria Tavern,"['33-16 23rd Ave', 'Astoria, NY 11105']",JCjBc8yox77AruEcfmW7tA,4.0,77,"{'latitude': 40.7731910081665, 'longitude': -73.9113436728784}",$
+44,Playwright Irish Pub,"['27 W 35th St', 'New York, NY 10001']",fU8gJtLz1r6oQ94l1kS5Ag,4.0,461,"{'latitude': 40.749885559082, 'longitude': -73.9853439331055}",$$
+45,Mudville9,"['126 Chambers St', 'New York, NY 10007']",L0g4PLqpgWz0OkpGFbUTZA,3.5,390,"{'latitude': 40.71520852817451, 'longitude': -74.0089192}",$$
+46,JJ Sport Bar Restaurant,"['545 E 183rd St', 'Bronx, NY 10458']",MdxsHDBhTa73dpQaEYEsfA,5.0,1,"{'latitude': 40.854546, 'longitude': -73.891168}",
+47,Lilly's Craft and Kitchen,"['675 9th Ave', 'New York, NY 10036']",JXcYD52B4190gIh6_RSXCg,4.0,1072,"{'latitude': 40.76138, 'longitude': -73.99071}",$$
+48,Alphabet City Beer Company,"['96 Ave C', 'New York, NY 10009']",VN7CdSCyo-ZWquo_ouGoVA,4.5,195,"{'latitude': 40.723652, 'longitude': -73.978836}",$$
+49,Karaoke City,"['22 W 32nd St', 'Fl 7', 'New York, NY 10001']",yPr7zZcTNNfDUO-7oFw-AA,4.5,284,"{'latitude': 40.74763, 'longitude': -73.9868599}",$$
